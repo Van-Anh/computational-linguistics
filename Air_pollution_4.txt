@@ -1,0 +1,531 @@
+Indoor Air Pollution and HealthIndoor Air Quality (IAQ) refers to the air quality within and around buildings and structures, especially as it relates to the health and comfort of building occupants. Understanding and controlling common pollutants indoors can help reduce your risk of indoor health concerns.Health effects from indoor air pollutants may be experienced soon after exposure or, possibly, years later.Immediate EffectsSome health effects may show up shortly after a single exposure or repeated exposures to a pollutant. These include irritation of the eyes, nose, and throat, headaches, dizziness, and fatigue. Such immediate effects are usually short-term and treatable. Sometimes the treatment is simply eliminating the person's exposure to the source of the pollution, if it can be identified. Soon after exposure to some indoor air pollutants, symptoms of some diseases such as asthma may show up, be aggravated or worsened.The likelihood of immediate reactions to indoor air pollutants depends on several factors including age and preexisting medical conditions. In some cases, whether a person reacts to a pollutant depends on individual sensitivity, which varies tremendously from person to person. Some people can become sensitized to biological or chemical pollutants after repeated or high level exposures.Certain immediate effects are similar to those from colds or other viral diseases, so it is often difficult to determine if the symptoms are a result of exposure to indoor air pollution. For this reason, it is important to pay attention to the time and place symptoms occur. If the symptoms fade or go away when a person is away from the area, for example, an effort should be made to identify indoor air sources that may be possible causes. Some effects may be made worse by an inadequate supply of outdoor air coming indoors or from the heating, cooling or humidity conditions prevalent indoors.Long-Term EffectsOther health effects may show up either years after exposure has occurred or only after long or repeated periods of exposure. These effects, which include some respiratory diseases, heart disease and cancer, can be severely debilitating or fatal. It is prudent to try to improve the indoor air quality in your home even if symptoms are not noticeable.While pollutants commonly found in indoor air can cause many harmful effects, there is considerable uncertainty about what concentrations or periods of exposure are necessary to produce specific health problems. People also react very differently to exposure to indoor air pollutants. Further research is needed to better understand which health effects occur after exposure to the average pollutant concentrations found in homes and which occurs from the higher concentrations that occur for short periods of time.Primary Causes of Indoor Air ProblemsIndoor pollution sources that release gases or particles into the air are the primary cause of indoor air quality problems. Inadequate ventilation can increase indoor pollutant levels by not bringing in enough outdoor air to dilute emissions from indoor sources and by not carrying indoor air pollutants out of the area. High temperature and humidity levels can also increase concentrations of some pollutants.Pollutant SourcesThere are many sources of indoor air pollution. These can include:• Fuel-buring combustion appliances• Tobacco products• Building materials and furnishings as diverse as:o Deteriorated asbestos-containing insulationo Newly installed flooring, upholstery or carpeto Cabinetry or furniture made of certain pressed wood products• Products for household cleaning and maintenance, personal care, or hobbies• Central heating and cooling systems and humidification devices• Excess moisture• Outdoor sources such as:o Radono Pesticideso Outdoor air pollution.The relative importance of any single source depends on how much of a given pollutant it emits and how hazardous those emissions are. In some cases, factors such as how old the source is and whether it is properly maintained are significant. For example, an improperly adjusted gas stove can emit significantly more carbon monoxide than one that is properly adjusted.Some sources, such as building materials, furnishings and products like air fresheners, can release pollutants more or less continuously. Other sources, related to activities like smoking, cleaning,redecorating or doing hobblies release pollutants intermittently. Unvented or malfunctioning appliances or improperly used products can release higher and sometimes dangerous levels of pollutants indoors.Pollutant concentrations can remain in the air for long periods after some activities.Inadequate VentilationIf too little outdoor air enters indoors, pollutants can accumulate to levels that can pose health and comfort problems. Unless buildings are built with special mechanical means of ventilation, those designed and constructed to minimize the amount of outdoor air that can "leak" in and out may have higher indoor pollutant levels.How Outdoor Air Enters a BuildingOutdoor air can enter and leaves a building by: infiltration, natural ventilation, and mechanical ventilation. In a process known as infiltration, outdoor air flows into buildings through openings, joints, and cracks in walls, floors, and ceilings, and around windows and doors. In natural ventilation, air moves through opened windows and doors. Air movement associated with infiltration and natural ventilation is caused by air temperature differences between indoors and outdoors and by wind. Finally, there are a number of mechanical ventilation devices, from outdoor-vented fans that intermittently remove air from a single room, such as bathrooms and kitchen, to air handling systems that use fans and duct work to continuously remove indoor air and distribute filtered and conditioned outdoor air to strategic points throughout the house. The rate at which outdoor air replaces indoor air is described as the air exchange rate. When there is little infiltration, natural ventilation, or mechanical ventilation, the air exchange rate is low and pollutant levels can increase.Indoor Air Quality and Environmental JusticeEPA defines environmental justice (EJ) as "the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies."To effectively address EJ concerns, the Agency recognizes that communities must be the impetus for implementing local solutions for environmental health problems including indoor air. However, far too many communities lack the capacity to truly effect their environmental conditions. This includes some conditions found indoors, as well as conditions caused by outdoor impacts (such as climate change).Many reports and studies indicate that the following populations may be disproportionately impacted by indoor asthma triggers, secondhand smoke, mold, radon and other indoor pollutants:• children• elderly• low-income• minority• Tribes and indigenous people.EPA's Indoor Environments Division (IED) provides guidance and programs to help build the capacity of communities to understand and avoid indoor and outdoor health impacts. IED's main objective is to improve indoor air quality in buildings where people live, learn and work.Indoor air pollution is one of the world’s largest environmental problems – particularly for the poorest in the world who often do not have access to clean fuels for cooking.The Global Burden of Disease is a major global study on the causes and risk factors for death and disease published in the medical journal The Lancet.2 These estimates of the annual number of deaths attributed to a wide range of risk factors are shown here. This chart is shown for the global total, but can be explored for any country or region using the “change country” toggle.Indoor air pollution is a risk factor for several of the world’s leading causes of death, including heart disease, pneumonia, stroke, diabetes and lung cancer.3 In the chart we see that it is one of the leading risk factors for death globally.According to the Global Burden of Disease study 1.6 million people died prematurely in 2017 as a result of indoor air pollution. To put this into context: this was four times the number of homicides – close to 400,000 in 2017.Because the IHME data is more recent we rely mostly on IHME data in our work on indoor air pollution. But it’s worth noting that the WHO publishes a substantially larger number of indoor air pollution deaths. For 2012 (the latest available data) the WHO estimates 4.3 million deaths.4 IHME in contrast estimates 1.8 million deaths due to indoor air pollution for 2012. We are unfortunately not aware of any detailed explanation for the large discrepancy between these two estimates.It’s one of the leading risk factors for deaths globally; but for low-income countries, it’s the leading risk factor. If we look at the breakdown for countries with a low sociodemographic index – ‘Low SDI’ on the interactive chart – we see that indoor air pollution tops the list. For low-income countries, the number of premature deaths from air pollution is more than ten times the number from homicides in 2017.5The Institute for Health Metrics and Evaluation (IHME) estimates that 1.6 million people died prematurely as a result of indoor air pollution in 2017. This was 3% of global deaths. In low-income countries, it accounts for 6% of deaths.In the map here we see the share of annual deaths attributed to indoor air pollution across the world. In 2017 this ranged from a high of close to 11% in Papua New Guinea – more than 1-in-10 deaths – to less than 0.1% across most of Europe and North America.When we compare the share of deaths attributed to indoor air pollution either over time or between countries, we are not only comparing the extent of indoor air pollution, but its severity in the context of other risk factors for death. Indoor air pollution’s share does not only depend on how many die prematurely from it, but what else people are dying from and how this is changing.When we look at the share dying from indoor air pollution, figures are high across the lowest-income countries in Sub-Saharan Africa, but not markedly different from countries across Asia or Latin America. There, the severity of indoor air pollution – expressed as the share of deaths – has been masked by the role of other risk factors at low-incomes, such as low access to safe water, poor sanitation and unsafe sex which is a risk factor for HIV/AIDS.Death rates are highest across low income countriesDeath rates from indoor air pollution give us an accurate comparison of differences in its mortality impacts between countries and over time. In contrast to the share of deaths that we studied before, death rates are not influenced by how other causes or risk factors for death are changing.In this map we see death rates from indoor air pollution across the world. Death rates measure the number of deaths per 100,000 people in a given country or region.What becomes clear is the large differences in death rates between countries: rates are high in lower-income countries, particularly across Sub-Saharan Africa and Asia. Rates here are often greater than 100 deaths per 100,000 – in Papua New Guinea this was over 200 per 100,000.Compare this with death rates across high-income countries: across North America rates are below 0.1 deaths per 100,000. That’s a greater than 1000-fold difference.The issue of indoor air pollution therefore has a clear economic split: it is a problem that has almost been entirely eliminated across high-income countries, but remains a large environmental and health problem at lower incomes.We see this relationship clearly when we plot death rates versus income, as shown here. There is a strong negative relationship: death rates decline as countries get richer. This is also true when make this comparison between extreme poverty rates and pollution effects.How has mortality from indoor air pollution changed over time?Annual deaths from indoor air pollution have declined globally by more than 1 million since 1990Whilst indoor air pollution is still one of the leading risk factors for mortality, and the largest risk factor at low incomes, the world has also made significant progress in recent decades.Globally, the number of annual deaths from indoor air pollution has fallen by more than 1 million since 1990. As we see in the visualization, in 1990 an estimated 2.7 million died prematurely as a result; by 2017 this had fallen to 1.6 million.This means that despite continued population growth in recent decades, the total number of deaths from indoor air pollution has still declined.Indoor air pollution deaths have declined in most countriesWe have seen this progress across a large number of countries. In the scatterplot you see the comparison of the number of deaths from indoor air pollution in 1990 (shown on the y-axis) versus the number in 2017 (on the x-axis). The grey line here marks where the number of deaths would be equal in both years; countries which lie above the line had a higher number of deaths in 1990 than in 2017; and the opposite is true for countries below the line.Most countries lie above the grey line, meaning most have seen a decline in the number of deaths from indoor air pollution in recent decades.Death rates have declined in almost all countries in the worldWhich countries in the world have made progress on tackling indoor air pollution in recent decades? Almost all countries have.In the scatterplot here we see the comparison between the death rate from indoor air pollution in 1990 (shown on the y-axis) versus the death rate in 2017 (on the x-axis). The grey line here marks where the number of deaths would be equal in both years; countries which lie above the line had a higher number of deaths in 1990 than in 2017; and the opposite is true for countries below the line.Almost all countries – with the exception of Zimbabwe – lie above the grey line. This means progress has been made almost everywhere in the world in recent decades.How to make progress against indoor air pollution?IN THIS SECTION• Indoor air pollution results from poor access to clean cooking fuels• Poorer households have a higher dependence on solid fuels• Access to clean fuels for cookingIndoor air pollution results from poor access to clean cooking fuelsIndoor air pollution results from the burning of solid fuels such as crop waste, dung, charcoal and coal for cooking and heating in households. Burning these fuels produces particulate matter – a major health risk, particularly for respiratory diseases. The burning of such fuels in enclosed spaces such as small households is a major risk factor for exacerbation of these diseases.Low-income households tend to rely on solid fuels for cooking because cleaner fuels are either unavailable or too expensive. We therefore see a strong link between death rates from indoor air pollution and access to clean fuels for cooking.This is shown in the visualization: here we see that countries with the highest death rate from indoor air pollution are those with very low access to clean fuels (i.e. have a high dependence on solid fuels instead). As access to clean fuels and technologies increases, death rates from household air pollution begin and continue to fall.2.1 Exposure variables
+One way to determine the health effects of indoor smoke from solid fuels
+would be to apply the well-established exposure–response relationships
+from epidemiological studies of outdoor, or ambient, concentrations of
+Kirk R. Smith et al. 1437
+Table 18.1 Major toxic pollutants of indoor air
+Pollutant Major indoor sources
+Fine particles Fuel/tobacco combustion, cleaning, fumes
+from food being cooked, e.g. from cooking oil
+Carbon monoxide Fuel/tobacco combustion
+Polycyclic aromatic hydrocarbons Fuel/tobacco combustion, fumes from food
+being cooked, e.g. from cooking oil
+Nitrogen oxides Fuel combustion
+Sulfur oxides Coal combustion
+Arsenic and fluorine Coal combustion
+Volatile and semi-volatile organic compounds Fuel/tobacco combustion, consumer products,
+furnishings, construction materials, fumes
+from food being cooked, e.g. from cooking oil
+Aldehydes Furnishing, construction materials, cooking
+Pesticides Consumer products, dust from outside
+Asbestos Remodelling/demolition of construction
+materials
+Leada Remodelling/demolition of painted surfaces
+Biological pollutants Moist areas, ventilation systems, furnishings
+Free radicals and other short-lived, highly Indoor chemistry
+reactive compounds
+Radon Soil under building, construction materials
+a Lead-containing dust from deteriorating paint is an important indoor pollutant for occupants of
+many households, but the most critical exposure pathways are not usually through air. See
+chapter 19.
+Source: Zhang and Smith (2003).
+the same pollutants (see chapter 17) to the household exposures, called
+here the “pollutant-based approach” (Smith and Mehta 2003).
+There are a number of potential problems with such an approach,
+however, including:
+• Differences in pollutant mixtures: Although particles are often used
+as an indicator pollutant, the composition of particles (size, chemical
+composition, etc.) as well as that of other pollutants varies from
+source to source, and also changes with dispersion (Rossi et al. 1999).
+• Differences in exposure patterns: The daily pattern of indoor air pollution sources varies from that of ambient sources, with large peaks
+corresponding to cooking and heating schedules (Naeher et al.
+2000b).
+• Differences in exposure levels: Concentrations of particulates from the
+indoor combustion of biomass have been measured at levels that are
+10–50 times greater than in urban areas of developed countries, where
+the main epidemiology of pollutants has been performed. Extrapolating exposure–response relationships by such a large factor is problematic, particularly as there are indications that the relationship
+becomes more shallow at higher exposures (Bruce et al. 2000).
+• Relevance of health outcomes addressed: Most studies of outdoor air
+pollution have attempted to associate short-term changes in exposure
+with acute health outcomes. This does not address the long-term
+impact on chronic health outcomes, nor does it necessarily focus on
+the health outcomes that are responsible for the bulk of the burden
+of disease. In particular, ALRI, mostly in the form of pneumonia, are
+likely to be responsible for the largest burden of disease caused by
+exposure to indoor air pollution.
+• Data on concentrations of particulate matter (PM) in indoor air1 are
+sparse. In addition, most measurements have been made for concentrations of total particulates, which are less reliable indicators of risk
+than smaller particles (PM10 or PM2.5).
+An alternative approach, consistent with that used in most epidemiological studies in developing countries, is to divide the population
+into categories of people that are exposed or not exposed to smoke
+from solid fuel, on the basis of fuel use and ventilation. Although necessary here, owing to the current lack of exposure data, this method overlooks the large variability of exposure within each of these groups
+(Naeher et al. 2000a). Furthermore, the method based on use of fuel is
+affected by the first of the shortcomings listed above, as the same broad
+category of fuels may produce different mixtures of pollutants in different settings. We also recognize that exposures from cooking and heating
+1438 Comparative Quantification of Health Risks
+can differ considerably because of different conversion technologies. It
+was not possible to distinguish between the two end-uses in most cases,
+however.
+To account for differences in other factors (e.g. housing) that
+would affect levels of pollution (Mehta and Smith 2002), we included a
+second component in the exposure variable, which we refer to as the
+“ventilation factor”. The final exposure variable in the population was
+defined as:
+We compiled a database of household use of solid fuel, from which
+the prevalence of household use of solid fuel was estimated for each subregion.2 Using known values from this database, a statistical model was
+developed to predict national use of solid fuel for countries without data.
+Ventilation factors were assigned on the basis of qualitative evidence, to
+account for differences in types of cooking and heating appliances and
+housing.
+2.2 Theoretical-minimum-risk exposure distribution
+The theoretical minimum for this risk factor is clearly no use of solid
+fuels for the production of household energy; this has already been
+achieved in many populations. In reality, of course, there would still
+be exposure to pollution from liquid and gaseous fuels, which might
+be further reduced through a switch to use of electricity or of very wellventilated cooking conditions.
+2.3 A database of household use of solid fuel
+A database of households using solid fuel, expressed as a percentage of
+all households, was compiled for 52 countries in 10 subregions, in order
+to estimate global household use of solid fuel (see Table 18.2). Although
+the data were acquired from studies conducted at different times in the
+past decade, fuel-use patterns are unlikely to have changed drastically
+within this time frame (International Energy Agency 2002; World
+Resources Institute 2000). Out of necessity, the data were gathered from
+various sources using different and, at times, non-validated methodology. We thus had to make many assumptions in order to facilitate subregional comparison and data manipulation associated with solid fuel
+use. No households were reported to be using solid fuels for cooking in
+AMR-A, EUR-A, EUR-C and WPR-A, presumably because countries in
+these subregions have already shifted to cleaner fuels.
+In many countries where large proportions of the population cook
+with solid fuels, data on household energy are widely, although not universally, available. In some cases, the data come directly from national
+census information or energy use statistics, which state explicitly the
+number or fraction of households that rely predominantly on solid fuels
+for their energy needs (Government of Botswana 1991; Government of
+Brazil 1991; Government of Ecuador 1990b; Government of Ethiopia
+1998; Government of India 1991b; Government of Mexico 1990b;
+Government of Nigeria 1990; Government of Zimbabwe 1992). For
+example, information on the main fuel used for cooking is collected
+during the house listing of the census of India each decade (Government
+of India 1991b). These data, disaggregated into urban and rural sectors,
+are available at the district level (in India, a district contains about 2
+million people).
+In some countries, where censuses are infrequent and/or data on residential energy use are not collected, household surveys are an important source of information. Some of these household surveys, such as the
+widely conducted Demographic Health Surveys are repeated, while
+others may be conducted only once. For example, primary household
+energy estimates for 22 countries in Africa, based on household surveys
+with sample sizes ranging from 1000 to >14000 households, are included
+in a database of development indicators for Africa, compiled by the
+World Bank (2000). In China, data are available in the form of aggregate annual residential fuel consumption at the provincial level,
+disaggregated by urban and rural areas (Government of China 1996).
+Cooking and heating energies were distinguished using a simple model
+that accounted for the average number of “heating days” in each
+province, based on a 30-year average from 1951–1980 (Lin 1995). A
+small amount of energy (2kg-coal equivalent per household per heating
+day) was considered to be heating fuel and subtracted from the mix
+of solid fuels in each province. The remaining heating-adjusted cooking
+fuel was then normalized to “useful energy” using typical conversion
+efficiencies for each fuel–stove combination reported (Zhang et al. 2000).
+The proportion of useful cooking energy attributed to each fuel type
+per household in each province was taken to represent the number of
+households using that fuel. This analysis was repeated for each of the
+provinces in China3 and aggregated to give a national total. It was estimated that in 1996 nearly 80% of the households in China used solid
+fuels.
+Many countries produce national estimates of solid-fuel use, but only
+a minority collect specific information on fuel use at the household level.
+Evidence from 10 countries (Bangladesh, Ecuador, Indonesia, Mexico,
+Myanmar, Nepal, Pakistan, the Philippines, Thailand and Viet Nam)
+indicates that national and household levels of solid-fuel use are highly
+correlated (R2 =0.75). It should be noted, however, that this relationship
+holds true when solid fuels are not heavily used in industry. This correlation was used to estimate use of solid fuel by households in nine coun1442 Comparative Quantification of Health Risks
+tries (Afghanistan, Algeria, Egypt, the Islamic Republic of Iran, Lebanon,
+the Libyan Arab Jamahiriya, Morocco, Tunisia and Turkey) where only
+information on national use of solid fuel was available. For three countries (Angola, the Democratic Republic of the Congo and the Sudan), in
+which a large fraction of the total national energy consumed (>70%)
+comprised biomass fuels (World Resources Institute 2003), household
+use of solid fuel was assumed to be 100%. In other countries, including
+Bangladesh, Indonesia, Myanmar, Nepal, the Philippines, Thailand, Viet
+Nam and Pakistan (FAO 1997a, 1997b; Government of Indonesia 1995,
+1996a; Government of Pakistan 1997), aggregate data on annual residential fuel consumption are available. In these cases, the percentage of
+households using solid fuels was estimated according to the quantity of
+fuel consumed.
+The fraction of the population of each subregion covered by the
+countries for which some data were available, and the prevalence of
+solid-fuel use according to these data are given in Table 18.3. Data on
+specific types of solid fuel (i.e. use of coal vs biomass) are limited to
+India and China, but this factor is also likely to be important in other
+countries in which no estimates were made, including South Africa and
+Pakistan. 
+2.4 A model to predict national use of solid fuel
+Using known values from the database of households using solid fuel, a
+statistical model was built to predict national use of solid fuel according
+to a number of development parameters. The model was then applied to
+countries where no data on household fuel use existed. This method
+also allowed for the estimation of statistical uncertainty (i.e. excluding
+uncertainty in available data and the validity of model) surrounding each
+prediction.4
+As a country develops, households gradually switch from using solid
+fuels to using cleaner liquid and/or gaseous fuels. Although the picture
+is often more complex at local and household levels, it is assumed here
+that this generally holds true over the long term on a subregional scale,
+a trend well-established by current, albeit cross-sectional, international
+comparisons. After a certain level of economic growth has been achieved,
+it is assumed that countries will shift away from cooking entirely with
+solid fuels. The use of solid fuel for heating may continue, however, especially in areas that are rich in coal and wood.
+For countries for which data were not available, a model based on
+the parameters described in Table 18.4 was used with stepwise linear
+regression. With a gross national product (GNP) of US$4420 per capita in 1999, Brazil was the richest country in the database to have significant levels of cooking with solid fuels (27% of households). To avoid
+extrapolating the model to areas where it may be inappropriate, estimates were made only for countries with a GNP of <US$5000 per capita
+in 1999. All countries with a GNP of >US$5000 per capita in 1999 were
+assumed to have made a complete transition to clean household-cooking
+systems, either with cleaner liquid or gaseous fuels, or electricity or,
+where solid fuel was still used for cooking or heating, to fully ventilated
+appliances.
+As use of traditional fuel (as a percentage of national energy use) is
+highly correlated with GNP per capita, stepwise linear regression eliminates GNP per capita when both variables are entered together. If use of
+traditional fuel is not entered, it is essentially replaced by GNP per capita
+in the model, with little impact on model fit or standard error (Table
+18.5). Two models to predict fuel use were assessed, one employing GNP
+per capita and the other use of traditional fuel (as a percentage of
+national energy use) as predictor variables. Use of traditional fuel, which
+includes use of fuel-wood, bagasse (biomass remaining after processing
+sugar-cane), charcoal, animal wastes, agricultural residues, and other
+vegetable biomass wastes, is expressed as a percentage of total fuel use
+at the national (as opposed to the household) level, on an energy-equivalent basis. Like household use of solid fuel, use of traditional fuel at the
+national level is highly correlated with GNP per capita (Figures 18.1 and
+18.2).
+Information on GNP per capita is more reliable, is updated more
+routinely, and is available at the national level for nearly all countries.
+Therefore, we used the model including GNP per capita as a predictor,
+rather than the model using use of traditional fuel. The final model is
+shown in Table 18.6 and includes percentage of the rural population,
+GNP per capita (log-transformed), petroleum use per capita, and location within the EMR subregions (entered as a dummy variable). Other potential variables were dropped from the model in stepwise linear
+regression.
+This model was used to predict percentages of households using solid
+fuel in all countries where these values were unknown (see Figure 18.3).
+In order to force the percentage of households using solid fuel to lie
+between 0% and 100%, estimates for the 23 countries with predicted
+values of <0 or >100 were converted to 0 and 100, respectively.
+Known (for all countries in the household fuel-use database) and predicted estimates of use of solid fuel at the country level were aggregated
+into subregional estimates of household solid-fuel use (Table 18.7).
+The subregions with the least coverage are those that have the highest
+levels of economic development, i.e. those subregions that are least likely
+to have high proportions of household solid-fuel use because people
+have, for the most part, already shifted to cleaner fuels and cooking
+technologies.
+We assumed that the fraction of the population exposed is the same
+as the fraction of households using solid fuel. This assumption is likely to underestimate exposure since solid-fuel-using households are more
+likely to be rural and of low socioeconomic status, and are thus likely
+to have more members than the subregional average.
+2.5 Assigning ventilation factors
+Since people in different parts of the world use different cooking and
+heating appliances and have different types of housing, ventilation must
+also be taken into account when estimating exposure. Here, the term
+“ventilation” encompasses both ventilation-related characteristics of the
+stove (such as the presence of a chimney that vents to the outside of the
+house) and characteristics of the kitchen (building material, architectural
+features that influence indoor air quality, location of the kitchen with
+relation to living area, etc.).
+Although we had no data on ventilation conditions according to subregion, we hypothesized that ventilation was a function of climate and
+development (UNCHS 1996). As described above, countries with a GNP
+per capita of >US$5000 were essentially assigned an estimated exposure
+of 0, that is, any use of solid fuel in the household was assumed to be
+undertaken in fully-vented appliances, with no re-entry of the pollution
+into the household. In the absence of further information (as described
+below), all other countries were assigned a ventilation factor of 1.0.
+In countries of eastern Europe and the former Soviet Union, a long
+history of household use of solid fuel under cold climatic conditions
+and relatively high standards of living, before the recent economic
+decline, led to the development of energy technologies with far fewer
+indoor emissions and, consequently, less exposure per unit of solid fuel
+burned. Therefore, we set the ventilation factor at 0.2 for EUR-B and
+EUR-C.
+In China, the widespread national improved-stove programme has disseminated cooking stoves with chimneys to three-quarters of rural households using solid fuel since 1981 (Goldemberg et al. 2000; Smith et al.
+1993), resulting in decreased effective exposure. The ventilation factor
+for China was set at 0.25 for child health outcomes, because even welloperating, improved biomass stoves with chimneys are still responsible
+for some exposure (Sinton et al. 1995). We set China’s ventilation factor
+at 0.5 for adult health outcomes, as current disease patterns for adults
+partly reflect exposure before the introduction of improved stoves. India,
+the only other country with a long-term national stove-improvement programme, has had only mixed success, with relatively low stove lifetimes
+and national coverage (NCAER 2002). The ventilation factor was therefore maintained at 1.0 for India.
+Tables 18.8 and 18.9 detail estimated exposures as defined above for
+children aged <5 years and for adults. Separate estimates of exposure
+resulting from use of coal are presented in Table 18.10 for adults only,
+as adults are affected by chronic health outcomes (see section 3)
+2.6 Quantitative and qualitative sources of uncertainty
+Estimates of use of solid fuel for countries in the household fuel-use
+database were arbitrarily assigned an uncertainty range of 5%. The
+exposure classification system used here is binary (exposed to solid fuels
+or not exposed), which is consistent with the available epidemiological
+literature. In reality, exposure to indoor air pollution from use of solid
+fuel results in a wide range of exposures, which vary according to different types and quality of fuel and stove housing characteristics (e.g.
+ventilation and size), cooking and heating methods, differences in timeactivity patterns (time spent within the household and in close proximity to the pollution source) and season (Saksena et al. 1992). Since
+the distribution of exposures is continuous, exposures would best be
+characterized as a continuous outcome, or at least better characterized
+by multiple categories. As a result, the above binary categorization and
+uncertainty values significantly underestimate the true uncertainty in
+levels of exposure. In addition, the need to use the fuel-prediction model
+for countries without data obviously introduces uncertainty, only part of
+which may be reflected in the variance of the results obtained from the
+model.
+3. Estimating risk factor–disease
+relationships
+3.1 Health outcomes: evidence for causality and
+inclusion criteria
+Health outcomes caused by indoor exposure to smoke from use of solid
+fuel were chosen after a review of the epidemiological evidence available
+for each end-point, using electronic databases, including Medline
+and TCMLARS (Traditional Chinese Medical Literature Analysis and
+Retrieval System, an electronic database of Chinese journals). In addition, given that a large body of evidence comes from developing countries, literature was also obtained from other researchers and reputable
+developing-country journals not currently indexed in international databases. Only articles written or abstracted in English were used, except
+for articles on lung cancer, for which both the Chinese and the English literature were accessed, since, to our knowledge, only in China has there
+been significant use of coal in unvented household devices in recent
+decades.
+GENERAL ASSESSMENT OF CAUSALITY
+The strength of the evidence for each end-point was determined on the
+basis of a structured assessment of causality, using Bradford Hill’s criteria for causality, including temporal relationship, strength of association,
+specificity, the presence of a dose–response relationship, biological plausibility, coherence, the existence of experimental evidence and consistency of association.
+As specificity, dose–response relationships, and experimental evidence
+are often difficult to assess for environmental exposures and health outcomes with multiple causes or long latency periods, we used the epidemiological evidence in conjunction with available information on
+emissions, exposures and mechanisms for indoor air pollution (Smith et
+al. 2000; Zelikoff et al. 2003). Three health outcomes were determined
+to have strong enough evidence to be included: ALRI, COPD and lung
+cancer (Table 18.11). Information on assessing causality for these outcomes is given in section 3.3 and excluded outcomes are discussed in
+section 3.2.
+Children aged >5 years (of school-age) were excluded as they spend
+less time in the house than women and children aged <5 years; this is a
+conservative assumption as there is some exposure of this group,
+although levels are unknown on a global scale (Ezzati and Kammen
+2001; Saksena et al. 1992). Because of the limitations of the available
+epidemiological studies, only risks in young children (aged <5 years) and
+adults were included. Available data indicate that men are also affected
+by those outcomes considered for women, but presumably at lower risks
+than women because of lower exposures. Adults aged 15–30 years were
+excluded because the chronic diseases of concern (COPD and lung
+cancer) have not yet become manifest in this group. Obviously, however,
+development of these diseases in later years is partly caused by exposures
+at these and younger ages.
+1452 Comparative Quantification of Health Risks
+Table 18.11 Diseases associated with use of solid fuels and populations
+affected that were included in the analysis
+Disease Population affected
+Acute lower respiratory infections (ALRI) Children aged <5 years
+Chronic obstructive pulmonary disease (COPD) Females and males aged ≥30 years
+Lung cancer (coal use only) Females and males aged ≥30 years
+3.2 Excluded health outcomes
+OUTCOMES WITH INSUFFICIENT EVIDENCE
+A number of important diseases that are potentially associated with use
+of solid fuels have not been included in this analysis owing to insufficient or lack of direct evidence on causality. Lack of inclusion does not
+necessarily imply inconclusive findings. Rather, it refers to a relatively
+small set of findings, suggesting that additional, carefully conducted
+studies are needed to strengthen the evidence base.
+Asthma
+On the basis of the usual measures (concentrations of small particles,
+PM2.5), typical exposures to indoor smoke from use of solid fuels are
+much higher than those for urban outdoor pollution (García-Marcos
+et al. 1999) and ETS (Strachan and Cook 1998), with which asthma has
+been frequently associated. In addition, a study of children aged <5 years
+in Malaysia found increased risk associated with the burning of mosquito coils, another important indoor source of PM2.5 (Azizi et al. 1995).
+Studies in China (Xu et al. 1996a) and Kenya (Mohamed et al. 1995)
+have quantitatively associated asthma in children of school age and in
+adults with various measures of indoor pollution from solid-fuel use. As
+the reported background rate is low in most developing countries,
+however, asthma contributes relatively little to the total burden of deaths
+or DALYs from indoor air pollution.
+Cataracts and other visual impairments
+Two case–control studies in India have found an increased risk of
+cataracts among people using biomass fuel; Mohan et al. (1989) determined an odds ratio of 1.6; Zodpey and Ughade (1999) found an adjusted
+odds ratio of 2.4. Evaluation of the National Family Health Survey of
+India (NFHS 1995) found a somewhat lower rate for partial blindness
+(odds ratio of 1.3; Mishra et al. 1999a), but no significant difference for
+total blindness. There is also evidence that exposure to ETS is associated
+with cataracts (West 1992) and animal studies show that cataracts can
+be caused by wood smoke (Rao et al. 1995; Shalini et al. 1994).
+Indoor air pollution may also be linked to blindness through trachoma (Prüss and Mariotti 2000). Two unadjusted studies in the United
+Republic of Tanzania found such a link (Taylor and West 1989; West
+and Lynch 1989) although another in Ethiopia found cooking in a central
+room to be protective, perhaps through reduction of flies (Sahlu and
+Larson 1992).
+Perinatal effects
+One study in India found an adjusted excess risk of stillbirth of 50%
+among women using biomass fuels during pregnancy (Mavalankar et al.
+1991), and two Chinese studies of urban ambient pollution, from the
+Kirk R. Smith et al. 1453
+same group of researchers, also found a strong relationship between
+concentrations of particulates and pre-term delivery (Xu et al. 1995)
+and low birth weight (Wang et al. 1997). Low birth weight was also
+found to be associated with household exposure to biomass smoke in
+Guatemala (Boy et al. 2002). Intrauterine mortality, low birth weight,
+prematurity, and early infant death have been significantly associated
+with urban outdoor pollution at much lower concentrations than those
+typically found in households that use biomass (Bobak 2000; Loomis et
+al. 1999; Pereira et al. 1998; Ritz and Yu 1999; Scram 1999; Woodruff
+et al. 1997). Exposure of non-smoking pregnant women to ETS has been
+associated with low birth weight in a meta-analysis of 17 studies
+(Windham et al. 1999a), with low cognitive development (Johnson et al.
+1999), but not with spontaneous abortion (Windham et al. 1999b).
+Low birth weight is a risk factor for a number of childhood (Walsh
+1993) and, probably, adult (Barker 1997) diseases, not just those of the
+respiratory system. The potential pathways by which indoor cooking
+smoke may cause low birth weight are given in Figure 18.4. Although
+this mechanism seems likely to be important in some parts of the world, at present it is difficult to provide a quantitative estimate of the potential burden, and it is not attempted here.
+Tuberculosis
+Recent studies in India and Mexico have suggested that indoor air pollution from use of solid fuel may be a risk factor for active tuberculosis.
+A statistically significant relationship has been found between reported
+use of biomass fuel and incidence of tuberculosis in 260000 adults
+aged >20 years. Indeed, women in households using biomass fuels were
+found to be 2.7 (95% CI 1.9–4.0) times more likely to have tuberculosis than women in households using cleaner fuels, even after correction
+for a range of socioeconomic factors (Mishra et al. 1999b). In addition,
+an unadjusted but significant odds ratio of 2.5 has been reported for
+clinically-confirmed tuberculosis in adult male and female householders
+aged 16–60 years using wood or dung cakes as fuel (Gupta and Mathur
+1997). Although these studies were not able to address smoking as a possible confounder, two studies in Mexico City have found an association
+between exposure to wood smoke and incidence of tuberculosis, after
+taking smoking into account (Perez-Padilla et al. 1996, 2001). A study
+in China also found exposure to outdoor air pollution to be associated
+with tuberculosis (Xu et al. 1995). Animal studies have shown that wood
+smoke causes immune suppression in the respiratory system (Thomas
+and Zelikoff 1999; Zelikoff 1994).
+Other health effects not included
+• Interstitial lung disease has been associated with long-term exposures
+in several studies (Dhar and Pathania 1991; Gold 2000; Ramage
+et al. 1988; Sandoval et al. 1993).
+• Early studies in Africa seemed to implicate wood smoke as a cause of
+nasopharyngeal cancer, but this association was not borne out by later
+studies in Asia (Smith 1987; Smith and Liu 1994).
+• Two studies in Brazil have shown increased risk of upper aerodigestive tract cancers, with adjusted odds ratios of 2.7 (Pintos et al. 1998)
+and 2.5 (Franco et al. 1989).
+• An association has been shown with cervical neoplasia among HPVinfected women in Honduras, with an adjusted odds ratio of 5.7 after
+35 years or more of cooking over an open fire (Velema et al. 2002).
+• Ischaemic heart disease has been associated with exposure to outdoor
+particulate air pollution (Ponka and Virtanen 1996; Pope et al. 1992;
+Schwartz 1993; Schwartz and Dockery 1992; Schwartz and Morris
+1995) and ETS (Steenland et al. 1998) in some studies, both at much
+lower levels of exposure than for indoor air pollution (see chapter 17).
+Kirk R. Smith et al. 1455
+EXCLUDED OUTCOMES ASSOCIATED WITH USE OF SOLID FUEL, BUT NOT
+CAUSED BY EXPOSURE TO AIR POLLUTION
+The use of solid fuels for household cooking and heating involves a range
+of activities with potential health implications that are separate from
+those involving the pollution created. The most important involve the
+harvesting of the two major types of fuel.
+• The harvesting of biomass in rural settings in developing countries
+may involve regular carriage of heavy loads for long distances, with
+consequent physical strain and food energy demands, along with
+exposure to such hazards as snake-bite, leeches and assault (crime).
+Women and children typically bear the greatest burden of such harvesting, although there is much variation across the world.
+• Coal mining is one of the most hazardous occupations in the world,
+particularly in developing countries in small mines from which much
+household fuel is obtained.
+In addition, the extra time taken to harvest, store, and prepare solid
+fuels is time that is potentially deducted from other pursuits that are
+associated with health benefits, such as child care or the generation of
+the household income.
+Considering that the counterfactual distribution is cooking with nonsolid fuels (rather than no cooking at all), there are also categories of
+health risk that are avoided by the use of solid fuels:
+• fires and explosions related to household use of liquid and gaseous
+fuels;
+• poisoning caused by ingestion of household kerosene;
+• risk inherent in the operation of the national and international petroleum fuel cycles required to provide liquid and gaseous fuels;
+• risks involved in providing electricity for household cooking, such as
+coal mining, air pollution from power plants, accidents involving
+nuclear and hydroelectric dams, etc.; and
+• additional risk of mosquito-borne diseases owing to absence of repellence from household smoke produced by solid fuel.
+In its current form, the system limits of this comparative risk assessment (CRA) do not encompass any of these health effects, positive or
+negative, that are not directly caused by exposure of humans to pollution in the household.
+EXCLUDED OUTCOMES ASSOCIATED WITH SPECIALIZED AIRBORNE PRODUCTS
+OF INDOOR COMBUSTION
+There are several related sources of indoor pollution not covered by this
+analysis that may be locally important in some countries. However, too
+1456 Comparative Quantification of Health Risks
+few data are available regarding exposures to extrapolate these risks
+to global burdens, although we suggest that these sources represent
+potential research topics, as well as priorities for determining exposure
+distributions, in order to improve the estimated burden of indoor air
+pollution.
+• Smoke from cooking oil: studies in China (including the Province of
+Taiwan) show relative risks for lung cancer of 3–5 for Chinese-style
+cooking in a wok with certain cooking oils (Ko 2000; Zhong et al.
+1999b).
+• Exposures to trace quantities of toxic elements resulting from indoor
+use of coal in China and elsewhere: significant and widespread
+impacts from exposures to fluorine and arsenic have been reported in
+China (Finkelman et al. 1999) and can be expected to occur wherever
+coal fuels are contaminated with such toxic elements.
+• Smoke from incense and mosquito coils, which have been associated
+with ill-health in some Asian studies (Azizi et al. 1995).
+3.3 Evidence and exposure–risk relationships
+The estimates of relative risk5 and confidence intervals used for ALRI,
+COPD and lung cancer were derived through formal meta-analyses of
+the available literature.
+Searches of the scientific literature were conducted using the Medline
+computerized bibliographic database, review of bibliographies from
+previously-retrieved articles and personal communications. In some
+cases, the authors of articles that were lacking data that were of interest for this analysis were contacted and asked for clarification, and specific requests for information were sent to researchers in this field.
+Medline searches were conducted using the following key words:
+• For ALRI: indoor air pollution, household fuel, smoke, acute respiratory infections (ARI), pneumonia and ALRI
+• For COPD: indoor air, fuel, COPD, chronic obstructive lung disease
+(COLD) and chronic bronchitis
+• For lung cancer: indoor, air, fuel and lung cancer
+To be eligible for inclusion in the meta-analysis, studies had to fulfil
+the following criteria:
+• to be a primary study, not a re-analysis or review;
+• to examine some proxy for exposure to indoor smoke from the use
+of solid fuels for cooking and/or heating purposes;
+• to report an odds ratio and its variance, or sufficient data with which
+to estimate them; and
+Kirk R. Smith et al. 1457
+• to be written or abstracted in English. Additionally, for lung cancer
+only, a Chinese colleague assisted in a comprehensive search of the
+Chinese literature, extraction of the relevant data and translation.
+We considered both fixed- and random-effects models for the metaanalysis. As the results from both were similar, we used those from the
+fixed-effects model only. Owing to heterogeneity within studies, we performed sensitivity analyses by stratifying the studies by potential sources
+of heterogeneity, including assessment of exposure and adjustment for
+confounders. We did not use a random-effects model, even when statistical significance for heterogeneity was present, for the following reasons.
+• Random-effects models assume that studies are selected from a population with a single underlying variance. This would be violated
+given the heterogeneity among the studies in measuring exposure.
+• Random-effects models assign the same weight to small and large
+studies. This would be problematic for the studies of this analysis
+because the number of cases ranged from 45 to 500.
+Smoking is an important risk factor for the diseases associated with
+indoor smoke from use of solid fuel, especially lung cancer and COPD.
+At present, information on the combined effects of smoking and use of
+solid fuel is rare. To avoid possible overestimation of the burden of
+disease, therefore, attributable fractions for lung cancer and COPD
+caused by use of solid fuel were applied to disease burdens remaining
+after removal of the burden attributable to smoking. This is conservative in that some of the effect attributable to smoking could also be
+attributed to use of solid fuel. To ensure internal consistency within the
+CRA project, burdens attributable to smoking were obtained from
+chapter 11. Globally, about 51% and 62%, for men and women respectively, of the total burden of COPD is not attributable to tobacco.
+ACUTE LOWER RESPIRATORY INFECTIONS
+A number of studies in developing countries (Argentina, Brazil, the
+Gambia, India, Kenya, Nepal, Nigeria, South Africa, the United Republic of Tanzania and Zimbabwe) have quantified the relative risk of ALRI
+for children in households that burn biomass (Armstrong and Campbell
+1991; Campbell 1997; Cerqueiro et al. 1990; Collings et al. 1990; de
+Francisco et al. 1993; Ezzati and Kammen 2001; Johnson and Aderele
+1992; Kossove 1982; Mtango et al. 1992; O’Dempsey et al. 1996;
+Pandey et al. 1989b; Shah et al. 1994; Victora et al. 1994). Some work
+has also been done to identify possible mechanisms in the developing
+countries (Verma and Thakur 1995).
+Studies among native Americans (Navajos in the south-western United
+States of America) show a strong and significant association between
+ALRI and use of wood stoves, at much lower levels of indoor pollution
+than found in developing countries (Morris et al. 1990; Robin et al.
+1458 Comparative Quantification of Health Risks
+1996). There is a larger group of studies that show various childhood
+respiratory symptoms (e.g. cough, wheezing) to be associated with exposure to smoke from solid fuel, but do not provide sufficient evidence to
+calculate odds ratios of ALRI itself.
+As all studies included here used either ARI or ALRI, or death caused
+by ARI or ALRI, in children aged <5 years as a health outcome, we only
+estimated the burden of disease for children in this age group. A recent
+study in Kenya (Ezzati and Kammen 2001) found associations between
+use of solid fuels and ARI in adults (both men and women), suggesting
+that, once time–activity patterns and spatial dispersion of smoke have
+been taken into account, men and women may have similar patterns of
+exposure–response.
+A single statistical analysis of all 15 studies identified (Table 18.12)
+was not appropriate because of the heterogeneous exposure variables
+and the diverse analytical strategies used by the investigators, especially
+with respect to potential confounding factors. To address this diversity,
+different subgroups of these studies were used to conduct several metaanalyses, the results of which were remarkably consistent; pooled relative risk estimates increased with improved precision of exposure
+measure.6
+C
+

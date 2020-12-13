@@ -1,0 +1,1163 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/232808042
+
+Urban Air Pollution Climates Throughout the World
+Chapter in Issues in Environmental Science and Technology · January 2009
+CITATIONS
+
+READS
+
+21
+
+435
+
+2 authors:
+Ole Hertel.
+
+Michael Goodsite Ph.D.
+
+Aarhus University
+
+University of Adelaide
+
+278 PUBLICATIONS 6,531 CITATIONS
+
+80 PUBLICATIONS 4,230 CITATIONS
+
+SEE PROFILE
+
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+http://www.elapseproject.eu/ View project
+
+NCoE NORD-STAR View project
+
+All content following this page was uploaded by Ole Hertel on 31 May 2014.
+
+The user has requested enhancement of the downloaded file.
+
+Urban Air Pollution Climates throughout
+the World
+OLE HERTEL* AND  GOODSITE
+
+ABSTRACT
+The extent of the urban area, the local emission density, and the temporal
+pattern in the releases govern the local contribution to air pollution levels
+in urban environments. However, meteorological conditions also heavily
+aﬀect the actual pollution levels as they govern the dispersion conditions
+as well as the transport in and out of the city area. The building obstacles
+play a crucial role in causing generally high pollutant levels in the urban
+environment, especially inside street canyons where the canyon vortex
+ﬂow governs the pollution distribution. Of the pollutants dominating
+urban air pollution climates, particulate pollution in general together with
+gaseous and particulate polycyclic aromatic hydrocarbons (PAHs) and
+heavy metals are those where further ﬁeld measurements, characterization
+and laboratory studies are urgently needed in order to fully assess the
+health impact on the urban population and provide the right basis for
+future urban air pollution management.
+
+1 Introduction
+In addition to other adverse health eﬀects, air pollution is estimated to cause
+about 2 million premature deaths worldwide annually.1 In this context particulate matter (PM) is generally believed to be the most hazardous of ambient
+pollutants, and it has been estimated that reducing ambient air concentrations
+of PM10 from 70 to 20 mg m3 would lower the number of air quality related
+deaths by approximately 15%.1 More than half of the world’s population reside
+Issues in Environmental Science and Technology, 28
+Air Quality in Urban Environments
+Edited by R.E. Hester and R.M. Harrison
+r Royal Society of Chemistry 2009
+Published by the Royal Society of Chemistry, www.rsc.org
+
+1
+
+2
+
+Ole Hertel and  Goodsite
+2
+
+in cities, where the highest air pollution exposure3 and associated negative
+health impact take place. Furthermore, the projections for the next 50 years
+indicate that the worldwide urban population will increase by two thirds.2
+Urban air pollution has been increasing in major cities, especially those found
+in developing countries (such as in: Brazil, Russia, India, Indonesia and China)
+as a result of rapid urbanisation. The cost to society of the associated health
+eﬀects is signiﬁcant and has been estimated to be approximately 2% of
+the Gross Domestic Product (GDP) in developed countries and 5% of GDP
+in developing countries (www.unep.org/urban_environment/issues/urban_
+air.asp). There may also be associated losses in productivity.4
+
+1.1
+
+Emission and Formation of Urban Air Pollution
+
+Urban air pollution arises from the competition between emission processes
+which increase pollutant concentrations, and dispersion, advection and
+deposition processes that reduce and remove them. This chapter describes the
+diﬀerences in local urban pollutant levels between cities worldwide, and outlines how these diﬀerences in pollution levels reﬂect diﬀerences in emission
+densities and emission patterns, but also in pollutant dispersion and removal
+processes. The impact on pollution levels of the dispersion and removal processes are governed by the local meteorological conditions, which also vary
+heavily with the physical location of the city. Air pollution concentrations in an
+urban environment are naturally the result of local emissions as well as contributions from pollution transport from more remote sources (see Figure 1).
+The size of the city domain and the density of pollutant emissions govern the
+local contribution to urban air pollution.5 Naturally, the temporal pattern in
+urban air pollution levels is a function of variations in the local releases, but just
+
+Concentration
+
+Street increment
+
+City increment
+
+Regional
+Distance
+City area
+
+Figure 1
+
+A schematic illustration of the air pollutant contribution from regional
+transport, the city area and the street traﬃc. The relative magnitude of the
+various contributions depends on the considered pollutant and the actual
+dispersion conditions (governed by the meteorology).
+
+Urban Air Pollution Climates throughout the World
+
+3
+
+as important are the variations in the meteorological parameters that govern
+the dispersion and the pollutant transport in and out of the city.
+Besides the inﬂuence from temporal variations in emissions and meteorology,
+the emission release height also plays an important role. Air pollution emitted
+from a high release height will in many cases be transported out of the urban
+area before being dispersed down to ground level; depending on the size of the
+urban domain. Urban industries, power plants and other sources for which the
+releases come from tall chimneys, contribute therefore only rarely to the local
+ground level air pollutant concentrations inside the urban area. These pollutant
+sources contribute primarily to the more regional air pollution.
+Pollutant emissions related to vehicular transport, local domestic heating and
+smaller industries have low release heights [less than 10 m above ground level
+(a.g.l.)]. These releases are not diluted as eﬃciently as generally the case for
+emissions from tall release heights (more than 20 m a.g.l.). The contribution
+from ‘‘low’’ sources therefore often dominates the pollutant concentrations at
+ground level inside the urban area. A steady growth in vehicular transport and
+centralization of domestic heating have made road traﬃc the most important
+source of urban air pollution in many countries,6 including most industrialized
+nations.
+In respect to local contribution from diﬀerent sectors there are generally
+signiﬁcant diﬀerences between developed and developing countries. A comparison of two so-called mega-cities (Beijing and Paris) showed that aerosol
+particles and volatile organic compounds (VOCs) have a complex and multicombustion source in Beijing, whereas a single traﬃc pollution source completely dominates the urban atmospheric environment in Paris.7
+Indoor air quality is a major health concern. In the developing countries,
+emissions from household use of fossil fuels in the year 2000 was estimated
+to account for 1.6 million deaths, mainly among women and children in the
+poorest countries.8
+In the present paper we focus on ambient air quality and related impact on
+human health. The actual ambient air pollutant load greatly varies from one
+city to another, but, generally, major urban areas throughout the world have
+poor air quality, and, among these, the cities in the developing countries face
+the greatest challenges. WHO has compiled a survey on typical ranges in
+ambient air concentrations of four indicator pollutants, which are summarized
+in Table 1.
+
+1.2
+
+Urban Pollution Levels and Indicators
+
+The highest urban air concentrations of the classic pollutants like PM10 and
+SO2 are found in Africa, Asia and Latin America, whereas the highest levels of
+secondary pollutants like O3 and NO2 are observed in Latin America and in
+some of the larger cities and urban air sheds in the developed countries. The
+environmental and human health impacts are particularly severe in cities of
+about 10 million or more inhabitants – also known as mega-cities.9 Urban air
+
+4
+
+Table 1
+
+Ole Hertel and  Goodsite
+
+Ranges in annual average urban ambient air concentrations (mg m3)
+of PM10, NO2, SO2 and 1 hour average maximum concentrations of
+O3 for diﬀerent regions, based on a selection of urban data.1
+Annual average concentrations
+
+Region
+
+PM10
+
+NO2
+
+SO2
+
+1 h max concentration
+O3
+
+Africa
+Asia
+Australia/New Zealand
+Canada/United States
+Europe
+Latin America
+
+40–150
+35–220
+28–127
+20–60
+20–70
+30–129
+
+35–65
+20–75
+11–28
+35–70
+18–57
+30–82
+
+10–100
+6–65
+3–17
+9–35
+8–36
+40–70
+
+120–300
+100–250
+120–310
+150–380
+150–350
+200–600
+
+pollution has become one of the main environmental concerns in Asia, and
+especially in China where the pollution load in mega-cities like Beijing,
+Shanghai, Guangzhou, Shenzhen and Hong Kong is substantial. In these
+cities, between 10 and 30% of days exceed the so-called Grade-II national air
+quality standards10 by a factor of three to ﬁve times that of the WHO AQG (air
+quality grade). These cities have experienced a 10% growth in traﬃc each year
+over the last 5 to 6 years and, even with enhanced emission controls, NO2
+and CO concentrations have remained almost constant over the same period of
+time.
+Use of air quality indices (AQIs) are common tools in environmental management. A description of widely used indices and how they are expressed
+mathematically is given in Gurjar et al.11 AQIs can be designed to handle single
+or multi pollutants and may be used for comparing the loads in diﬀerent cities
+or for describing the current load in relation to average loads or air quality
+standards and target values. In a multi component AQI (they applied the term
+MPI) ranging over mega-cities throughout the world, the highest MPI values
+were found for Dhaka, Beijing, Cairo and Karachi with values about double
+those of Delhi, Shanghai and Moscow11 (Figure 2).
+
+2 Sources in the Vicinity of the City
+Airports are usually located in the vicinity of larger cities and often mentioned
+as potential sources of high pollution loads in the urban areas. In recent years,
+several studies have thus been carried out to determine the potential impact of
+airport emissions. These studies generally point at an inﬂuence from the road
+traﬃc going to and from the airport, whereas the impact of aircraft emissions
+has been found to be very limited. In a study carried out in Frankfurt Airport,
+signals from speciﬁc aircraft emissions generally could not be identiﬁed,
+whereas emissions from vehicle traﬃc on surrounding motorways had measurable impact on the air quality.12 A study from Munich Airport had similar
+ﬁndings.13 A study inside Heathrow Airport has shown that between 5 and
+
+5
+
+Urban Air Pollution Climates throughout the World
+Tokyo
+New York
+São Paulo
+Mumbai
+Kolkata
+Shanghai
+Buenos Aires
+Delhi
+Los Angeles
+Osaka-Kobe
+Jakarta
+Beijing
+Rio de Janeiro
+Cairo
+Dhaka
+Moscow
+Karachi
+-2.5
+
+Figure 2
+
+-1.5
+
+-0.5
+
+0.5
+
+1.5
+
+2.5
+
+Mega-cities pollution indices (MPI) based on measurements of the classical
+air pollutants and aggregated into an index for total pollution level (multi
+pollutant). The plot is reproduced from Gurjar et al.11
+
+30% of the local NOx contribution is related to aircraft, whereas the remaining
+95 to 70% is from road traﬃc.14
+A recent study has indicated that ship traﬃc is responsible for about 60,000
+lung cancer and cardiopulmonary deaths annually,15 but this outcome is linked
+to the contribution from ship emissions to the background PM load and not
+particularly related to the urban air quality. Harbours may be a local source
+contributing to urban pollution, but studies indicate that local road traﬃc often
+dominates the contribution from harbours. A study in the harbour of Aberdeen
+thus showed a gradient of increasing NO2 and soot concentrations from the
+harbour towards the city centre,16 indicating the contribution from the harbour
+had very limited impact on the local air quality in comparison with the emissions taking place in the urban environment.
+Wood combustion in households is a growing concern in areas with many
+wood stoves that have relatively high local emissions of PM in comparison
+with other anthropogenic pollution sources. Investigations of wood combustion and air quality in developed countries like New Zealand,17 Sweden,18
+USA19,20 and Denmark21 have documented that residential wood combustion
+may signiﬁcantly elevate the local PM concentrations in outdoor air. As an
+example, emission inventories for Denmark point at wood combustion as the
+largest anthropogenic source of primary particle emissions.
+
+3 Impact of the Geography, Topography and Meteorology
+3.1
+
+Geography
+
+The location of the city has signiﬁcant impact on the dispersion conditions,
+mainly since it aﬀects the local meteorological conditions. The classical
+
+6
+
+Ole Hertel and  Goodsite
+
+example is Los Angeles situated in a valley with frequent stagnant conditions
+during temperature inversions. The stagnant conditions lead generally to low
+wind speeds, and little air exchange between the valley and the surrounding
+areas. Hot and sunny climate and high emissions from traﬃc, industry and
+domestic heating makes the valley act like a large pollutant reaction chamber.
+This leads to high concentrations of photochemical products like ozone,
+nitrogen dioxide and peroxy acetyl nitrate (PAN).
+A comparison of nitrogen oxide (NOx) levels in the street Via Senato in
+Milan, Italy and the street Jagtvej in Copenhagen, Denmark showed similar
+concentrations at the two sites despite much higher traﬃc in the street of
+Copenhagen.22 It was shown mainly to be a result of generally lower wind
+speeds in Milan compared with Copenhagen. High wind speeds and neutral
+conditions prevail in Copenhagen, whereas low wind speeds and stable or near
+stable conditions are frequent in Milan. Copenhagen has a cold coastal climate
+whereas Milan has a warm sub-tropical climate and the local wind conditions
+are furthermore aﬀected by the location inside the Po Valley.
+
+3.2
+
+Topography
+
+Some cities have characteristic wind systems as a result of local topography.
+An example of such eﬀects is the rising air over a warm mountain side during
+daytime often leading to local formation of clouds and release of precipitation.
+During night the system turns around and the cooling of the air in the
+mountain valley leads to stable conditions that may cause local air pollution
+problems. The impact of Katabatic winds is another example, which aﬀects
+cities along the Norwegian coast. The Katabatic winds are formed when cold
+air masses move down-slope (Katabatic is Greek for moving down hill) and
+meeting the colder snow and glacier covered areas, which then cool the air mass
+further, before the air ﬂoats out through a narrow cleft at the bottom of the hill.
+Usually the impact on air pollutant concentrations is moderate, but they may
+lead for example to high levels of local dust. Yet another example is the warm
+and dry Foehn wind formed on the back-side of a mountain chain, e.g. on the
+north side of the Alps. When the wind is forced over the mountain, the air is
+cooled and releases moisture. The air subsequently becomes warmer when it is
+moving down-hill again. This system may then form an inversion and, e.g.
+reduce dispersion of local air pollutants.
+
+3.3
+
+Meteorology
+
+The ambient temperature in the urban atmosphere of larger cities is generally a
+couple of degrees Celsius higher than that found in the surrounding rural areas.
+This feature is termed the urban heat island eﬀect,23 and the explanation is that
+the city has a smaller albedo and therefore absorbs more energy compared with
+the surrounding rural areas. There is in addition a high consumption of energy
+inside the city, as a result of domestic heating and intense road traﬃc, which
+
+Urban Air Pollution Climates throughout the World
+
+7
+
+again contributes to release of heat. Finally, the buildings and other urban
+constructions form a shield for the wind, and this shielding leads to less cooling
+of the surfaces inside the city. Since the buildings act as heat reservoirs, the city
+has furthermore a less pronounced diurnal temperature variation compared
+with the rural area.
+In calm weather, an urban circulation cell may be formed by warm air rising
+from the city. Some distance away, this heated air sinks and returns to the city
+at a low altitude. A similar phenomenon is known in coastal regions, where a
+sea breeze may be formed as a result of the temperature diﬀerence between the
+sea and land surfaces. A study in London showed that the heat island circulation over the city means that the wind speed is never below about 1 m s1
+(ref. 24). This study shows that the heat island eﬀect is very important during
+low wind speed conditions in London where it may dominate the dispersion
+and thereby be limiting for the highest local air pollution concentrations,
+and this eﬀect may thereby be the limiting factor for the highest pollution
+concentrations in the urban environment.
+
+4 Pollutant Dispersion in Urban Streets (see also chapter by
+Salmond and McKendry)
+Traﬃcked streets are air pollution hot spots in the urban environment (Figure
+1). The concentration inside the urban street may be considered as the result of
+two contributions, one from emissions from the local traﬃc in the street itself
+and one from background pollution entering the street canyon from above roof
+level:25
+c ¼ cb þ cs
+where c is the concentration in the street, cb the urban background contribution
+and cs the contribution from traﬃc inside the street itself. The background
+contribution furthermore arises from two contributions; the ﬁrst of these is the
+contribution from nearby sources in the urban area (typically this will mainly
+be traﬃc in surrounding streets), and the other contribution consists of regional
+(sources within a distance of a few hundred km) and long range transported
+(sources placed up to thousands of km away) pollution.
+Naturally, the pollutant levels in the urban streets are strongly aﬀected by
+traﬃc emissions taking place inside the street itself. However, the concentration
+level and the distribution of air pollution inside the street are to a large extent
+governed by the surrounding physical conditions. These physical conditions
+heavily aﬀect the wind speed and especially the wind direction inside the
+street.25 The special airﬂow generated inside the streets and around building
+obstacles may result in very diﬀerent concentration levels at diﬀerent locations
+in the street. The classical example is the street canyon vortex ﬂow (Figure 3),
+which physically governs the pollutant distribution inside the street canyon.
+The street canyon is characterised by the presence of tall buildings on both sides
+
+8
+
+Ole Hertel and  Goodsite
+wind
+Background pollution
+
+Recirculated pollution
+
+Leeward
+
+Figure 3
+
+Direct emission
+
+Windward
+
+Illustration of the ﬂow and dispersion inside a street canyon. In the situation
+shown, the wind above roof level is blowing perpendicular to the street.
+Inside the street canyon a vortex is created, and the wind direction at street
+level is opposite to the wind direction above roof level. Pronounced diﬀerences (they may be up to a factor of 10) in air pollution concentrations on
+the two pavements is the result of these ﬂows.
+
+of the street. Within the vortex ﬂow relatively clean air from rooftop height is
+drawn down at the windward face of the street, across the road at street level, in
+the reverse of the wind direction at roof top, bringing pollutants in the road to
+the leeward face of the canyon. This results in pollution concentrations up to 10
+times higher on the leeward side compared with the windward side of the street.
+
+5 Nitrogen Dioxide Pollution in Urban Areas (see also chapter
+by Bloss)
+Residence time for an air packet in the vicinity of an urban street is usually of
+the order of seconds to a few minutes,25 depending on the street topography,
+and therefore only very fast chemical conversions have time to take place.
+For example the chemistry of nitrogen oxides [NOx: the sum of nitrogen
+monoxide (NO) and nitrogen dioxide (NO2)] in urban streets may be described
+by only two reactions: the reaction between ozone (O3) and NO forming NO2,
+and the photo dissociation of NO2:26
+NO þ O3 ! NO2
+
+ð1Þ
+
+NO2 þ hn ! NO þ Oð3 PÞ
+
+O 3 P þ O2 ! O3
+
+ð2Þ
+ð3Þ
+
+O(3P) is ground state atomic oxygen. Reaction (3) is very fast, and for most
+practical applications it may be disregarded. The products of reaction (2) may
+thus be considered to be NO and O3. NOx is therefore mainly emitted as NO
+and to a lesser extent, NO2.
+
+Urban Air Pollution Climates throughout the World
+
+9
+
+Long-term exposure to elevated NO2 levels may decrease lung function and
+increase the risk of respiratory symptoms such as acute bronchitis, cough and
+phlegm, particularly in children,27 whereas NO at current ambient air concentrations is considered to be harmless.
+Previously, the fraction of NOx directly emitted as NO2 was only about 5 to
+10% in countries with a small fraction of diesel engines. Due to the use of
+catalytic converters and an increasing number of diesel engines with high
+fraction of NO2 in the exhaust, this value may in some regions be up to as much
+as 40%.28 This extremely simple chemical mechanism of two reactions and a
+direct emission describes very well the concentrations of NO2 inside urban
+streets,26 and e.g. for Northern European cities it may also be applied for
+describing NO2 concentrations in urban background air.5
+The use of catalytic converters has in recent years led to a signiﬁcant
+reduction in NOx concentrations in urban streets of many industrialised
+countries. However, for several reasons NO2 levels have not followed the same
+trends (Figure 4). Part of the explanation is the chemical conversion of NO to
+NO2 in the reaction with O3, but another explanation is an increased fraction of
+NO2 in the NOx emission from vehicles with catalytic converters. Despite the
+overall reduction in NOx emissions this is contributing to elevated NO2 concentrations. Prognoses for the development in NO2 concentrations in Denmark
+indicate that the future exhaust standards for road traﬃc vehicles will solve the
+current problems of complying with EU limit values. It is therefore important
+that similar emission restrictions take place in developing countries in the
+future in order to solve the problem of exposure of the population to elevated
+NO2 levels here also.
+
+6 Particle Pollution in Urban Areas
+Ambient urban air contains a complex mixture of particles of varying sizes and
+chemical composition.29–33 The size is crucial for the atmospheric fate34 as well
+as the human health impact, since it governs the particles’ atmospheric behaviour as well as their deposition in the human respiratory system.35 Particles
+in ambient air typically appear in three rather distinct size classes (or modes)
+usually termed ultraﬁne (diameter: 0.01–0.1 mm or 10–100 nm), ﬁne (diameter:
+0.l–2.5 mm) and coarse (diameter: 42.5 mm) mode particles (Figure 5).
+
+6.1
+
+Particle Mass Concentrations
+
+Only the mass concentration of particles o10 mm in aerodynamic diameter
+(PM10) is generally used as an indicator for suspended particulate matter
+(e.g. regulated in EU directives) and routinely measured at many locations
+throughout the world. Particle mass is dominated by particles 40.1 mm in
+diameter. The particles that appear in traﬃc exhaust are found mainly in
+the ultraﬁne fraction and include elemental carbon (EC) as well as organic
+carbon (OC).36 These particles contribute considerably to the PM number
+
+10
+
+Ole Hertel and  Goodsite
+Jagtvej, Copenhagen
+Banegaarsgade, Aarhus
+Vesterbro, Aalborg
+
+H.C.A. Boulevard, Cph
+Albanigade, Odense
+
+300
+
+µg(NO2)/m3
+
+250
+200
+150
+100
+50
+
+98
+
+00
+
+02
+
+04
+
+98
+
+00
+
+02
+
+04
+
+96
+
+94
+
+92
+
+90
+
+88
+
+86
+
+84
+
+82
+
+0
+
+70
+60
+µg(NO2)/m3
+
+50
+40
+30
+20
+10
+
+Figure 4
+
+96
+
+94
+
+92
+
+90
+
+88
+
+86
+
+84
+
+82
+
+0
+
+The measured trend in annual mean concentrations of NOx and NO2 [both
+shown in mg(NO2)/m3] at the street stations in the largest Danish cities:
+Copenhagen, Aarhus, Odense and Aalborg. Upper plot shows NOx and
+lower plot the NO2. The plots include measurements from the time period
+1982 to 2005, and illustrate the decrease in NO concentrations that results
+from increasing number of vehicles with catalytic converters in the Danish
+car parks, but also that this decrease is not reﬂected in the NO2 concentrations that have remained more or less constant during this time
+period.63
+
+concentrations but only little to the PM mass. There are health studies
+that show relationships between both acute and long-term health eﬀects and
+ultraﬁne particles (particle sizes o0.1 mm),37 but other studies are less conclusive concerning health eﬀects of ultraﬁne particles (expressed as particle
+number concentrations). Although ultraﬁne particles give a minor contribution
+to mass concentrations, they represent most of the particles in terms of number
+concentration. Most studies of health eﬀects of ambient air particles have been
+related to particle mass, but even here the mechanisms are not fully understood
+and the need for more studies has been underlined.38
+
+11
+
+Urban Air Pollution Climates throughout the World
+Number
+Mass
+
+Condensates &
+other primary
+particles (mainly
+traffic)
+
+Secondary particles
+(long range transport)
+
+Soot (traffic)
+
+0.001
+
+0.01
+
+0.1
+
+coarse
+(wear of tires, road
+construction work &
+natural sources)
+
+Dust from brakes
+(traffic)
+1
+
+10
+
+100 µm
+
+Nano particles
+Ultrafine particles
+PM2.5 (fine particles)
+PM10
+
+Figure 5
+
+The typical size distribution of particles in urban air given in both mass and
+number concentration. The horizontal axis is the particle diameter in mm.
+The full line is mass distribution, dominated by the coarse and secondary
+particles. The dashed line is the number distribution, dominated by ultraﬁne
+particles. Note that one particle with a diameter of 10 mm has the same
+weight as 1 billion particles with a diameter of 0.01 mm.64
+
+In busy streets, a signiﬁcant fraction of the particle pollution originates from
+traﬃc.39 The direct emission from car exhaust contains particles formed inside
+the engine as well as in the air just after the exhaust pipe. The latter depends on
+the sulfur content in the fuel; studies have shown that reducing the sulfur
+content in diesel signiﬁcantly reduces the particle number concentrations in
+urban streets. The directly emitted particles are found mainly in the ultraﬁne
+particle fraction. However, traﬃc also contributes to mechanically formed
+particles in the ﬁne and especially the coarse fraction. The particles in the coarse
+fraction are produced from wear of tyres and road surface material as well as
+re-suspended dust. The particles from the brakes contribute similar amounts to
+the ﬁne and the coarse fraction.
+For particle mass (PM10), long-range transport is usually the dominating source
+for regional background levels. Danish studies have shown that less than 10% of
+the urban PM10 originate from local urban sources.39 For particle numbers as
+well as NOx a much larger diﬀerence between rural, urban and curb side levels
+is observed, indicating a large contribution from local traﬃc sources (Figure 6).
+
+6.2
+
+Particle Number Concentrations
+
+A striking feature of urban particles is the often very high correlation between
+concentrations of NOx and total particle number, indicating that both
+
+12
+Concentration relative to urban background (=100)
+
+Ole Hertel and  Goodsite
+600
+500
+400
+
+Curb side
+urban background
+near-city location
+rural background
+
+300
+200
+100
+80
+60
+40
+20
+0
+ToN
+
+Figure 6
+
+PM10
+
+NOx
+
+Comparison of average concentrations of total particle number (ToN),
+particle mass (PM10) and NOx at rural, near-city, urban and curb side stations relative to urban background levels in the Copenhagen area. The
+concentration bars are stacked so that only the additional contributions are
+marked with the pattern shown in the legend. Note that the scale of the
+vertical axis changes at 100. Adapted from Ketzel et al.39
+
+compounds originate from the same (traﬃc) source (one study39 found R
+40.9). They are emitted in a similar ratio (particle number : NOx) from the
+diﬀerent traﬃc categories, i.e. high NOx emitters (diesel vehicles, especially
+heavy-duty vehicles) are also high particle emitters (when these are expressed
+in particle number concentrations).40 Model calculations such as those with the
+Danish Operational Street Pollution Model (OSPM)41 have been shown to
+reproduce well the observed particle number, when treating particles as inert
+tracers (disregarding transformation and loss processes).42 The particle emission factors depend on ambient temperature with higher emissions at lower
+temperatures, which is accounted for in the simulations.43
+Long-range transport contributes signiﬁcantly to ﬁne fraction particles and
+leads to the main part of particulate sulfate and ammonium and a large part of
+particulate nitrate. These secondary particles are formed from anthropogenic
+sulfur dioxide (SO2), ammonia (NH3) and NOx emissions,44 and often constitute more than 30% of the PM10. Another part of the particulate nitrate
+appears in the coarse fraction, which also contains contributions from sea spray
+and re-suspended dust (including road dust)45,46 that has a relatively large mass
+and quickly deposits by gravitational settling. Coarse particles, therefore, have
+a short lifetime in the atmosphere compared with ﬁne particles. Combustion in
+wood stoves is a source of particle pollution, which contributes about 90% of
+the total particle emissions attributed to domestic heating in Denmark. As an
+example, road traﬃc and use of wood stoves are the largest Danish sources of
+
+Urban Air Pollution Climates throughout the World
+
+13
+
+particle exposure of the population, due to the low release height and because
+the emissions take place where people live. The particles emitted from wood
+stove combustion are soot particles with high contents of polycyclic aromatic
+hydrocarbons (PAH).
+
+6.3
+
+Importance of Measurement Location
+
+People in temperate climates spend a signiﬁcant part of their time indoors.
+Exposure to air pollution in the home is thus an important fraction of their
+overall exposure. A Danish study in an uninhabited apartment in central
+Copenhagen revealed that particle pollution inside the apartment was to some
+extent linked to the activity level of the neighbouring apartments.47 This
+indicates that sources in the neighbouring environment must also be considered
+in the analysis of overall exposure.
+When comparing and analysing observed levels of PM in diﬀerent cities one
+must take into account that the location of the monitoring stations may be very
+diﬀerent, and there is a risk of comparing sites in the vicinity of large pollution
+sources with sites at some distance from local sources.
+
+6.4
+
+Contribution from Natural Processes
+
+Data collected in a WHO study (Figure 7), indicate that PM10 concentrations in
+Asia and Latin America are higher than are observed in Europe and North
+America.1 The highest particle levels are observed in Asia and are attributed to
+forest ﬁres, poor fuel quality and aeolian (windblown) dust. Wind erosion
+originating especially in the deserts of Mongolia and China contributes to the
+general level of PM in the region.
+
+7 Polycyclic Aromatic Hydrocarbons (PAH) in Urban Areas
+7.1
+
+Sources and Emissions
+
+Polycyclic aromatic hydrocarbons are a group of chemicals that are formed
+during incomplete burning of coal, oil, gas, wood, garbage, or other organic
+substances, such as tobacco and charbroiled meat. There are more than 100
+diﬀerent PAHs. PAHs generally occur as complex mixtures (i.e. as part of
+combustion products such as soot), not as single compounds. They usually
+occur adventitiously, but they can be manufactured as individual compounds
+for research purposes; however, not as the mixture found in combustion products. They can also be found in materials such as crude oil, coal, coal tar pitch,
+creosote, and rooﬁng tar. A few PAHs are used in medicines and in the production of dyes, plastics, and pesticides. Others are contained in asphalt used in
+road construction.
+Given the numerous sources of emissions of combustion products in urban
+(especially in developing countries) areas, PAHs are generally considered
+
+Figure 7
+
+0
+
+40
+
+80
+
+120
+
+160
+
+200
+
+240
+Latin America
+Africa
+
+Interim target-2
+
+Europe
+
+Interim target-3
+
+Annual average PM10 concentrations in selected cities worldwide
+
+Interim target-1
+Air Quality Guidelines
+
+PM10 concentrations (mg m3) in selected large cities throughout the world. The plot has been derived on basis of WHO (2006).1 The
+WHO Air Quality Guideline (AQG) [shown in the ﬁgure] deﬁned at the lowest level at which total, cardiopulmonary and lung cancer
+mortality has been shown to increase with more than 95% conﬁdence in response to long-term exposure. Shown also are the WHO
+interim target values 1 to 3.
+
+Latin A
+
+Asia
+
+Karachi
+New Delhi
+Katmandu
+Dhaka
+Calcuta
+Shanghai
+Beijing
+Gangzhou
+Ho Chi Min City
+Mumbai
+Colombo
+Busan
+Seoul
+Manila
+Bangkok
+Taipei
+Hong Kong
+Tokyo
+Lima
+Arequipa
+Meddelin
+Fortaleza
+Santiago
+Bogotá
+Cochabamba
+San Salvador
+Guatemala City
+Havana
+Mexico City
+Quito
+Rio de Janeiro
+La Paz
+Sáo Paulo
+San Juan
+Belo Horizonte
+Cairo
+Vereeniging
+Johannesburg
+Cape Town
+Praque
+Turin
+Bucharest
+Barcelona
+Milan
+Rome
+Cracow
+Berlin
+Erfurt
+Oslo
+Palermo
+Seville
+Bologna
+Helsinki
+Budapest
+Florence
+Hamburg
+Vienna
+Warsaw
+Munich
+Amsterdam
+Cologne
+Geneva
+Basel
+Zurich
+Copenhagen
+London
+Athens
+Leeds
+Brussels
+Stockholm
+San Diego
+St. Louis
+Los Angeles
+Knoxville
+Houston
+Pittburg
+Dallas
+Memphis
+Oklahoma City
+Washington DC
+New York
+Seattle
+
+14
+
+Ole Hertel and  Goodsite
+
+Urban Air Pollution Climates throughout the World
+
+15
+
+ubiquitous in the atmospheric environment and the urban environment in
+general. They occur in air, either attached to dust particles or as solids in airborne soil or sediment. PAHs are also a common product of combustion from
+common sources such as motor vehicles, and other gas-burning engines, woodburning stoves and furnaces, cigarette smoke, industrial smoke or soot, and
+charcoal-broiled foods.48,49 This is of great concern due to the mutagenic50 and
+carcinogenic51 properties of PAHs. PAHs of three or more benzene rings have a
+low vapour pressure and low solubility in water. Therefore they are present in
+ambient air both as gaseous compounds and as material adsorbed on particles.
+Lighter PAHs are accordingly almost always observed in gas phase, whereas
+heavier PAHs are generally observed on particles. The United States Agency
+for Toxic Substances (ATSDR, 1995) has listed 17 PAHs as of priority concern
+with respect to their toxicological proﬁle. PAHs have been studied in urban and
+other areas and appear to represent a fraction of a percent of the ambient
+particle mass.52 However, there are compelling arguments that the previously
+commonly employed measurement techniques produced artefacts and despite
+their toxicological proﬁle, no country has mandatory guidelines with respect to
+ambient air quality standards.53 The reader is referred to a recent review paper
+for greater detail and the current state of the art.53
+Commercial production has been found not to be a signiﬁcant source of
+PAHs in the environment.54 The primary sources of many PAHs in ambient air
+is the incomplete combustion of wood and other fuels.55 Natural sources
+include volcanoes, forest ﬁres, crude oil, and shale oil. Only three of the 7 PAHs
+included in the ATSDR proﬁles are produced commercially in the United
+States in quantities greater than research level: acenaphthene, acenaphthylene,
+and anthracene.49 Studies should be conducted to see if commercial production
+(accounting for a products’ total life cycle) is a signiﬁcant source of PAHs to
+the urban environment.
+
+7.2
+
+Sampling Artefacts
+
+In order to reduce the risk of sampling artefacts,52 in the spring of 2003 the
+Mexico City Metropolitan Area (MCMA) campaign employed three independent methods to measure particle-bound PAHs.56,57 They found peak
+concentrations of PAHs on the order of 120 ng m3 during the morning rush
+hour. Accordingly in urban areas, depending on the fuel sources of the vehicles
+and the use of catalytic converters, motor vehicle traﬃc is a signiﬁcant source
+of PAHs with the balance of the remainder from trash and biomass burning.
+As an example, one speciﬁc study found that 20% of the vehicles were
+accounting for 50% of the PAH emissions.58 Like other atmospheric gaseous
+and particulate constituents, PAHs are removed from the atmosphere by wet or
+dry deposition and may also be converted or degraded in heterogeneous processes. A very rapid decay of surface PAHs in the morning photochemistry has
+been reported.52 However, in this study, it could not be ruled out that surfactants coating the particles may have aﬀected the sensitivity of the applied
+instrument. This is another example of the complexity of PAH measurements.
+
+16
+
+Ole Hertel and  Goodsite
+
+There may be signiﬁcant concentrations of very toxic and very reactive PAHs
+in the MCMA atmosphere that are missed due to ﬁlter reaction artefacts.57
+
+7.3
+
+Long Range Transport
+
+Long range transport of PAHs are a concern. PAHs are designated as one
+of the persistent toxic substances in central and northeast Asia under the
+Stockholm Convention (UNEP, 2002). It has been demonstrated that transformation processes can lead to PAHs which are more toxic than their precursors.56 Processes describing the transformation and fate of PAHs in the
+urban environment are needed to further quantify the magnitude of the health
+risks associated with this toxic pollutant source.
+One study has analysed the source apportionment of particulate PAHs at
+Seoul, Korea, during a measurement campaign between August 2002 and
+December 2003,59 by applying the US EPA (2004) chemical mass balance
+(CMB) model; as Seoul is in the atmospheric footprint of major coal burning
+industries and power plants of both China and Japan, as well as contributing
+itself to the Northeast Asia particle footprint. In Seoul, similar to MCMA,
+gasoline and diesel vehicles accounted for 31% of the measured PAHs, i.e. the
+major sources. Daily and seasonal variations were noted and attributed to
+diﬀerences in biomass burning and coal (heating) with a 19% diﬀerence in the
+total concentrations observed between fall (63%) and winter (82%). The
+sources had an inverse proﬁle away from the city, which the authors attribute
+via source analysis to long range transport of atmospheric pollutant (LRTAP)
+PAHs and their precursors from sources in China or North Korea.
+
+7.4
+
+Future Requirements
+
+The Korean study, as well as the other studies discussed above, document the
+urgent need for better understanding of PAHs in the urban atmosphere as
+well as their transformation, transport and conversion. Although air quality of
+mega-cities and urban areas fall within the jurisdiction of local governments, the
+studies provide compelling evidence that eﬀorts at international levels to regulate LRTAP must speciﬁcally look at PAHs and their precursors. This will
+require an international, strategic joint eﬀort amongst Asia, Europe and North
+America to investigate these complicated mechanisms, and analyse the data.
+There are often many air quality monitoring stations (198 in Korea) in countries
+collecting data, but for PAHs, they are not well established, and levels are
+reported in only a few studies, and these are usually from campaigns that predate the publications by years, owing to the complexity of analysing the data.
+
+8 Trace Elements, including Heavy Metals in Urban Areas
+Trace elements including heavy metals (HM) are ubiquitous in the atmosphere
+of urban areas and many are classiﬁed as Hazardous Air Pollutants (HAP).
+
+Urban Air Pollution Climates throughout the World
+
+17
+
+They represent serious environmental and health risks and are especially of
+concern in industrial and urban climates, with mega-cities in developing nations
+being the obvious sites of concern for populations at risk for trace element
+exposure. One study has provided trends and levels of trace metals in three
+Danish cities as well as at background sites.60 The levels reported are less than
+literature values for mega-cities, as expected, but in many cases the trends
+are similar. More studies need to be accomplished with respect to trends in
+developing and mega-cities.
+
+8.1
+
+Heavy Metals
+
+Western nations have tightened and continue to restrict emissions of such trace
+elements as mercury, but despite decades of history of eﬀorts to regulate trace
+metals they still represent a real and pressing health and environmental hazard
+in the US (US EPA, 2006) and certainly in other western nations and other
+countries as well. Humans are exposed to metals via ambient air inhalation, and
+consuming contaminated food or water, as well as, in the case of lead and
+children, chewing on lead painted toys, and exposure from walls or furniture.
+Several metals aside from mercury and lead are classiﬁed by the United
+States Clean Air Act as HAPs: chromium, manganese, nickel, and cadmium.
+The United States Environmental Protection Agency (US EPA) lists many
+trace metals as among the worst urban air toxics (www.epa.gov/ttn/atw/nata/
+34poll.html, 28 November, 2008).
+
+8.2
+
+Trace Elements
+
+Trace elements and metals were of great concern in western cities prior to lead
+being banned as an anti-knock agent in gasoline in the mid 70s, as well as other
+regulations regarding the use of lead in, for example, house paints. The
+observed high levels and eﬀects have led to extensive monitoring with consequential regulations and international agreements that have greatly reduced
+the concentrations.
+The sources of emission into the urban atmosphere of commonly measured
+trace elements: Be, Co, Hg, Mo, Ni, Sb, Se, Sn, and V, with smaller concentrations of As, Cr, Cu, Mn, and Zn, are primarily human activities, especially the combustion of fossil fuels and biomass, industrial processes and waste
+incineration.61
+Certain trace elements have signiﬁcant natural sources such as: from sea
+spray near coastlines, dust from aeolian processes and weathering, especially
+noted in Asia, and volcanoes with local, regional and global eﬀects. On any
+given day however, the main source of trace elements in urban environments
+will be through anthropogenic activities, and national regulations, especially
+with regard to limits in gasoline, and emissions from coal ﬁred power plants,
+as well as industrial, especially metallurgic and (in the case of mercury)
+
+18
+
+Ole Hertel and  Goodsite
+
+chlor-alkali processes, mean that developing nations have higher levels in
+general than western nations in their urban environments.
+Trace metals have been measured in nearly all aerosol size fractions. It is
+therefore of paramount importance to characterize the particle size distribution
+and relate these to the potential adverse health eﬀects in the urban
+population.61
+As with PAHs, there are seasonal variations of trace metals in PM10 and
+PM2.5 observed in campaigns conducted seasonally, with higher winter values
+of nearly all trace elements suggesting a signiﬁcant source of particles from
+domestic heating in most temperate urban areas, and/or less eﬃcient dispersion
+of emissions in winter.
+
+8.3
+
+Recommendations for Modelling
+
+A regional model for atmospheric photochemistry and particulate matter was
+applied to predict the fate and transport of ﬁve trace metals; lead, manganese,
+total chromium, nickel, and cadmium, over the continental United States
+during January and July 2001.62 This study may be used to summarize the state
+of the art of the modelling of trace metals and the limitations of trace metal
+inventories. The authors recommend research in order to improve the model
+results on emission data for aerial suspension of particles and biomass burning.
+They note that including these sources will require models of aerial suspension
+and combustion as well as composition data for fuel and soil over the modelled
+location. Their recommendations will enable better modelling of especially lead
+and manganese. They recommend further research to better quantify anthropogenic emissions of chromium, nickel and cadmium [in the US National
+Emission Inventory (NEI)]. It is our opinion that their recommendations are
+valid for most NEI.
+
+9 Conclusions
+Urban air pollution is a complex and dynamic mixture of gaseous and particulate pollutants with both daily and seasonal variation due to both anthropogenic activity levels and weather conditions. The highest urban air pollutant
+concentrations of some of the most studied pollutants like PM10 and SO2 are
+found is Africa, Asia and Latin America. The highest levels of photochemical
+pollutants like O3 and NO2 are observed in Latin America and some of the
+developed countries. The negative health eﬀects of urban air pollution are well
+documented and found to be particularly severe in the mega-cities, where
+quality of life is lessened due to air pollution and the possibility of reduced
+productivity from toxics should be investigated.4 The actual pollution load in a
+given urban area is the result of both local emissions and transport from both
+nearby and more remote sources. The location of the city is very important
+for the local dispersion conditions, which are governed by meteorology but are
+also heavily aﬀected by topographical conditions (e.g. eﬀects of coastline,
+
+Urban Air Pollution Climates throughout the World
+
+19
+
+mountains, valleys etc.). Studies of the impact of local harbours and airports
+have generally pointed at a limited inﬂuence on urban air quality, and that the
+impact is mainly related to the road traﬃc that these facilities are generating.
+Although the health eﬀects of urban air pollution have been documented in
+numerous studies, there are still major unknowns in this regard. This review
+points at an urgent need for ﬁeld studies dedicated to a better characterisation
+of urban particle pollution together with studies focussing at gaseous and
+particulate PAHs and trace elements such as heavy metals. Such studies are
+needed for the full assessment of the health impact on the urban population and
+for providing the necessary basis for future urban air pollution management.
+In this chapter we have not addressed the synergistic impact on human
+health of the chemical cocktail arising from diverse sources in the various
+micro-environments where the population reside in daily life. The negative
+health eﬀects of air pollution may be enhanced by exposure to environmental
+tobacco smoking, indoor sources like cooking, candles, stoves etc. but also by
+exposures to non-airborne agents in textiles, food etc. For this complex interaction of diﬀerent exposures and their impact on human health, the reader is
+referred to the literature.
+
+
+Lett., 2008, 6, 95–100.
+62. W. T. Hutzell and D. J. Luecken, Sci. Total Environ., 2008, 396, 164–179.
+63. O. Hertel, T. Ellermann, F. Palmgren, R. Berkowicz, P. Løfstrøm, L. M.
+Frohn, C. Geels, C. A. Skjøth, J. Brandt, J. Christensen, K. Kemp and M.
+Ketzel, Environ. Chem. 2007, 4, 65–74.
+64. O. Hertel, S. S. Jensen, M. Hvidberg, M. Ketzel, R. Berkowicz, F.
+Palmgren, P. Wåhlin, M. Glasius, S. Loft, P. Vinzents, O. RaaschouNielsen, M. Sørensen and H. Bak, in Assessing the Impact of Traﬃc Air
+Pollution on Human Exposures and Linking Exposures to Health Eﬀects
+Traﬃc, Road Pricing and the Environment, ed. C. Jensen-Butler, B. Madsen, O.A. Nielsen and B. Sloth, Springer Press, 2007.
+
+View publication stats
+
+

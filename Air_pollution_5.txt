@@ -1,0 +1,315 @@
+Outdoor air pollution is a major environmental health problem affecting everyone in low-, middle-, and high-income countries.Ambient (outdoor) air pollution in both cities and rural areas was estimated to cause 4.2 million premature deaths worldwide per year in 2016; this mortality is due to exposure to small particulate matter of 2.5 microns or less in diameter (PM2.5), which cause cardiovascular and respiratory disease, and cancers.People living in low- and middle-income countries disproportionately experience the burden of outdoor air pollution with 91% (of the 4.2 million premature deaths) occurring in low- and middle-income countries, and the greatest burden in the WHO South-East Asia and Western Pacific regions. The latest burden estimates reflect the very significant role air pollution plays in cardiovascular illness and death. More and more, evidence demonstrating the linkages between ambient air pollution and the cardiovascular disease risk is becoming available, including studies from highly polluted areas.WHO estimates that in 2016, some 58% of outdoor air pollution-related premature deaths were due to ischaemic heart disease and strokes, while 18% of deaths were due to chronic obstructive pulmonary disease and acute lower respiratory infections respectively, and 6% of deaths were due to lung cancer.Some deaths may be attributed to more than one risk factor at the same time. For example, both smoking and ambient air pollution affect lung cancer. Some lung cancer deaths could have been averted by improving ambient air quality, or by reducing tobacco smoking.A 2013 assessment by WHO’s International Agency for Research on Cancer (IARC) concluded that outdoor air pollution is carcinogenic to humans, with the particulate matter component of air pollution most closely associated with increased cancer incidence, especially lung cancer. An association also has been observed between outdoor air pollution and increase in cancer of the urinary tract/bladder.Addressing all risk factors for noncommunicable diseases – including air pollution – is key to protecting public health.Most sources of outdoor air pollution are well beyond the control of individuals and demands concerted action by local, national and regional level policy-makers working in sectors like transport, energy, waste management, urban planning, and agriculture.There are many examples of successful policies in transport, urban planning, power generation and industry that reduce air pollution:• for industry: clean technologies that reduce industrial smokestack emissions; improved management of urban and agricultural waste, including capture of methane gas emitted from waste sites as an alternative to incineration (for use as biogas);• for energy: ensuring access to affordable clean household energy solutions for cooking, heating and lighting;• for transport: shifting to clean modes of power generation; prioritizing rapid urban transit, walking and cycling networks in cities as well as rail interurban freight and passenger travel; shifting to cleaner heavy-duty diesel vehicles and low-emissions vehicles and fuels, including fuels with reduced sulfur content;• for urban planning: improving the energy efficiency of buildings and making cities more green and compact, and thus energy efficient;• for power generation: increased use of low-emissions fuels and renewable combustion-free power sources (like solar, wind or hydropower); co-generation of heat and power; and distributed energy generation (e.g. mini-grids and rooftop solar power generation);• for municipal and agricultural waste management: strategies for waste reduction, waste separation, recycling and reuse or waste reprocessing; as well as improved methods of biological waste management such as anaerobic waste digestion to produce biogas, are feasible, low cost alternatives to the open incineration of solid waste. Where incineration is unavoidable, then combustion technologies with strict emission controls are critical.In addition to outdoor air pollution, indoor smoke from household air pollution  is a serious health risk for some 3 billion people who cook and heat their homes with biomass fuels and coal. Some 3.8 million premature deaths were attributable to household air pollution in 2016. Almost all of the burden was in low-middle-income countries. Household air pollution is also a major source of outdoor air pollution in both urban and rural areas.The 2005 WHO Air quality guidelines offer global guidance on thresholds and limits for key air pollutants that pose health risks. The Guidelines indicate that by reducing particulate matter (PM10) pollution from 70 to 20 micrograms per cubic metre (μg/m), we can cut air pollution-related deaths by around 15%.The Guidelines apply worldwide and are based on expert evaluation of current scientific evidence for:• particulate matter (PM)• ozone (O3)• nitrogen dioxide (NO2)• sulfur dioxide (SO2).Please note that the WHO Air quality guidelines are currently under revision with an expected publication date in 2020.Particulate matter (PM)Definition and principal sourcesPM is a common proxy indicator for air pollution. It affects more people than any other pollutant. The major components of PM are sulfate, nitrates, ammonia, sodium chloride, black carbon, mineral dust and water. It consists of a complex mixture of solid and liquid particles of organic and inorganic substances suspended in the air. While particles  with a diameter of 10 microns or less, (≤ PM10) can penetrate and lodge deep inside the lungs, the even more health-damaging particles are those with a diameter of 2.5 microns or less, (≤ PM2.5). PM2.5  can penetrate the lung barrier and enter the blood system. Chronic exposure to particles contributes to the risk of developing cardiovascular and respiratory diseases, as well as of lung cancer.Air quality measurements are typically reported in terms of daily or annual mean concentrations of PM10 particles per cubic meter of air volume (m3). Routine air quality measurements typically describe such PM concentrations in terms of micrograms per cubic meter (μg/m3). When sufficiently sensitive measurement tools are available, concentrations of fine particles (PM2.5 or smaller), are also reported.Health effectsThere is a close, quantitative relationship between exposure to high concentrations of small particulates (PM10 and PM2.5) and increased mortality or morbidity, both daily and over time. Conversely, when concentrations of small and fine particulates are reduced, related mortality will also go down – presuming other factors remain the same. This allows policy-makers to project the population health improvements that could be expected if particulate air pollution is reduced.Small particulate pollution has health impacts even at very low concentrations – indeed no threshold has been identified below which no damage to health is observed. Therefore, the WHO 2005 guideline limits aimed to achieve the lowest concentrations of PM possible.WHO Air quality guideline valuesParticulate matter (PM)Guideline valuesFine particulate matter (PM2.5)10 μg/m3 annual mean25 μg/m3 24-hour meanCoarse particulate matter (PM10)20 μg/m3 annual mean50 μg/m3 24-hour meanIn addition to guideline values, the WHO air quality guidelines provide interim targets for concentrations of PM10 and PM2.5 aimed at promoting a gradual shift from high to lower concentrations.If these interim targets were to be achieved, significant reductions in risks for acute and chronic health effects from air pollution can be expected. Achieving the guideline values, however, should be the ultimate objective.The effects of PM on health occur at levels of exposure currently being experienced by many people both in urban and rural areas and in developed and developing countries – although exposures in many fast-developing cities today are often far higher than in developed cities of comparable size."WHO air quality guidelines" estimate that reducing annual average fine particulate matter (PM2.5) concentrations from levels of 35 μg/m3, common in many developing cities, to the WHO guideline level of 10 μg/m3, could reduce air pollution-related deaths by around 15%. However, even in the European Union, where PM concentrations in many cities do comply with guideline levels, it is estimated that average life expectancy is 8.6 months lower than it would otherwise be, due to PM exposures from human sources.In low- and middle- income countries, exposure to pollutants in and around homes from the household combustion of polluting fuels on open fires or traditional stoves for cooking, heating and lighting further increases the risk for air pollution-related diseases, including acute lower respiratory infections, cardiovascular disease, chronic obstructive pulmonary disease and lung cancer.There are serious risks to health not only from exposure to PM, but also from exposure to ozone (O3), nitrogen dioxide (NO2) and sulfur dioxide (SO2). As with PM, concentrations are often highest largely in the urban areas of low- and middle-income countries. Ozone is a major factor in asthma morbidity and mortality, while nitrogen dioxide and sulfur dioxide also can play a role in asthma, bronchial symptoms, lung inflammation and reduced lung function.Ozone (O3)Guideline valuesO3100 μg/m3 8-hour meanThe recommended limit in the 2005 Air Quality Guidelines was reduced from the previous level of 120 µg/m3 in previous editions of the "WHO Air Quality Guidelines" based on recent conclusive associations between daily mortality and lower ozone concentrations.Definition and principal sourcesOzone at ground level – not to be confused with the ozone layer in the upper atmosphere – is one of the major constituents of photochemical smog. It is formed by the reaction with sunlight (photochemical reaction) of pollutants such as nitrogen oxides (NOx) from vehicle and industry emissions and volatile organic compounds (VOCs) emitted by vehicles, solvents and industry. As a result, the highest levels of ozone pollution occur during periods of sunny weather.Health effectsExcessive ozone in the air can have a marked effect on human health. It can cause breathing problems, trigger asthma, reduce lung function and cause lung diseases.Nitrogen dioxide (NO2)Guideline valuesNO240 μg/m3 annual mean200 μg/m3 1-hour meanThe current WHO guideline value of 40 µg/m3 (annual mean) was set to protect the public from the health effects of gaseous.Definition and principal sourcesAs an air pollutant, NO2 has several correlated activities. At short-term, concentrations exceeding 200 μg/m3, it is a toxic gas which causes significant inflammation of the airways.NO2 is the main source of nitrate aerosols, which form an important fraction of PM2.5 and, in the presence of ultraviolet light, of ozone. The major sources of anthropogenic emissions of NO2 are combustion processes (heating, power generation, and engines in vehicles and ships).Health effectsEpidemiological studies have shown that symptoms of bronchitis in asthmatic children increase in association with long-term exposure to NO2. Reduced lung function growth is also linked to NO2 at concentrations currently measured (or observed) in cities of Europe and North America.Sulfur dioxide (SO2)Guideline valuesSO220 μg/m3 24-hour mean500 μg/m3 10-minute meanA SO2 concentration of 500 µg/m3 should not be exceeded over average periods of 10 minutes' duration. Studies indicate that a proportion of people with asthma experience changes in pulmonary function and respiratory symptoms after periods of exposure to SO2 as short as 10 minutes. Health effects are now known to be associated with much lower levels of SO2 than previously believed. A greater degree of protection is needed. Although the causality of the effects of low concentrations of SO2 is still uncertain, reducing SO2 concentrations is likely to decrease exposure to co-pollutants.Definition and principal sourcesSO2 is a colourless gas with a sharp odour. It is produced from the burning of fossil fuels (coal and oil) and the smelting of mineral ores that contain sulfur. The main anthropogenic source of SO2 is the burning of sulfur-containing fossil fuels for domestic heating, power generation and motor vehicles.Health effectsSO2 can affect the respiratory system and the functions of the lungs, and causes irritation of the eyes. Inflammation of the respiratory tract causes coughing, mucus secretion, aggravation of asthma and chronic bronchitis and makes people more prone to infections of the respiratory tract. Hospital admissions for cardiac disease and mortality increase on days with higher SO2 levels. When SO2 combines with water, it forms sulfuric acid; this is the main component of acid rain which is a cause of deforestation.WHO responseWHO Member States recently adopted a resolution (2015) and a road map (2016) for an enhanced global response to the adverse health effects of air pollution.WHO is custodial agency for 3 air pollution-related Sustainable Development Goals indicators:• 3.9.1 Mortality from air pollution• 7.1.2 Access to clean fuels and technologies• 11.6.2 Air quality in cities.WHO develops and produces air quality guidelines recommending exposure limits to key air pollutants (indoor and outdoor).WHO creates detailed health-related assessments of different types of air pollutants, including particulates and black carbon particles, and ozone.WHO produces evidence regarding the linkage of air pollution to specific diseases, such as cardiovascular and respiratory diseases and cancers, as well as burden of disease estimates from existing air pollution exposures, at country, regional, and global levels.WHO develops tools such as AirQ+ for assessing the health impacts from various pollutants, but also the Health Economic Assessment Tool (HEAT) to assess walking and cycling interventions, the Green+ tool to raise importance of green space and health, the Sustainable Transport Health Assessment Tool (STHAT) and the Integrated Transport and Health Impact Modelling Tool (ITHIM).WHO is developing a Clean Household Energy Solutions Toolkit (CHEST) to provide countries and programmes with the tools needed to create or evaluate policies that expand clean household energy access and use, which is particularly important as pollutants released in and around the household (household air pollution) contribute significantly to ambient pollution. CHEST tools include modules on needs assessment, guidance on standards and testing for household energy devices, monitoring and evaluation, and materials to empower the health sector to tackle household air pollution.WHO assists Member States in sharing information on successful approaches, on methods of exposure assessment and monitoring of health impacts of pollution.WHO is leading the Joint Task Force on the Health Aspects of Air Pollution within the Convention on Long-range Transboundary Air Pollution to assess the health effects of such pollution and to provide supporting documentation.The WHO co-sponsored Pan European Programme on Transport Health and Environment (PEP), has built a model of regional, Member State, and multisectoral cooperation for mitigation of air pollution and other health impacts in the transport sector, as well as tools for assessing the health benefits of such mitigation measures.1.1Definition of outdoor air pollutionAir pollution is the presence in the air of one or more substances at a concentration or for a duration above their natural levels, with the potential to produce an adverse effect (derived from Seinfeld & Pandis, 2006). This definition implicitly acknowledges that some substances that are considered to be air pollutants are present naturally. Although some air pollutants are solely anthropogenic, or nearly so (e.g. chlorofluorocarbons and, for most purposes, some products of fossil fuel combustion), many, including ozone, particulate matter (PM), sulfur dioxide (SO2), carbon monoxide (CO), and polycyclic aromatic hydrocarbons (PAHs), may also result from natural processes (Table 1.1). Anthropogenic activities have led to increases in many air pollutants to levels that have adverse impacts on human and environmental health. What is key in terms of assessing the potential health effects of air pollution are the levels of the thousands of substances present, recognizing that their composition varies from location to location, so the term “air pollution” can refer to very different exposure mixtures.1.1.1. Characteristics of exposure to outdoor air pollution(a) OverviewExposure to outdoor air pollutants occurs virtually continuously, across microenvironments, including indoors. The composition of the mixture and the absolute levels of the air pollutants change, and many different air pollutants are present. The understanding of these exposures is complicated by the fact that the composition is seldom, if ever, well characterized in any environment, much less in all of the locations an individual may traverse. Although most of the more-abundant pollutants are known and can be measured, many trace species have not been identified, much less quantified routinely. Most trace pollutants typically are not measured; instead, they are characterized as being part of a class of pollutants that are more readily measured together (e.g. many organic compounds are aggregated in measurements), or they may be linked to other indicators.In light of the complexities discussed in this Monograph, there is no standardized way to characterize exposure to outdoor air pollution. This text focuses on outdoor air pollutants, classes of pollutants, pollutant mixtures (characterized by source and/or components), and pollutant indicators that are of specific interest as potentially leading to human cancer due to direct contact with humans through their presence in outdoor air. This includes exposures to outdoor pollutants and their reaction products outdoors and indoors. Exposures to pollutants generated indoors and contained indoors (e.g. from cooking and heating) and to smoking are not considered, but pollutants generated indoors that migrate outdoors are considered. An increased focus is on those specific species, classes of pollutants, indicators, and mixtures that are most relevant to cancer in humans.There are multiple ways to parse exposure to outdoor air pollution. First, the phase can be considered. Air pollutants are typically classified as being gaseous or PM, which contains suspensions of very small particles (with diameters of a few micrometres or less, down to nanometre scales) that are liquid and/or solid matter. Complicating this classification is the fact that some pollutants move between phases (e.g. semivolatile organic compounds [SVOCs]). A second consideration is whether the pollutant is emitted directly, and thus is primary (e.g. dust), or is formed in the atmosphere, and thus is secondary (e.g. ozone). Some pollutants are both primary and secondary (e.g. formaldehyde). Primary and secondary pollutants are described in more detail in Section 1.2. A third approach would be to consider where the exposure takes place (e.g. outdoors, in a car, or indoors) and whether the pollutant mixture has been significantly altered by that microenvironment. A fourth consideration is the source of the pollutant mixture (e.g. fuel combustion, chemical manufacture) or whether the mixture is dominated by secondary compounds.(b) Air pollutantsAir pollutants and pollutant classes of interest, their physical state, and their major sources are summarized in Table 1.1.Gaseous compounds of interest include, but are not limited to: ozone; nitrogen oxides (NOx), which comprise nitrogen oxide (NO) and nitrogen dioxide (NO2) (in the atmosphere, NO is oxidized to NO2, often rapidly in the presence of ozone); SO2; and a myriad of volatile organic gases (often referred to as organic gases or volatile organic compounds [VOCs]). VOCs include aldehydes (e.g. formaldehyde), ketones, aromatics (e.g. benzene), alkanes, and other classes. PM is even more complex (and less well understood). PM is characterized by both its size and its chemical composition (see Fig. 1.1). Particle sizes range across about 5 orders of magnitude, from the nanometre scale (e.g. as clusters of molecules) up to grains of dust on the order of tens of micrometres. Although the distribution of particle sizes can be measured, most measurements capture the mass in specific size ranges; for example, PM2.5 is PM with particles of aerodynamic diameter less than 2.5 μm. Other common size classes are PM10 (PM < 10 μm), total suspended particles (TSP), and ultrafine PM (PM < 0.1 μm). Coarse PM is taken as the fraction with diameters from 2.5 μm to 10 μm. These size classes are relevant to PM dynamics in the atmosphere and uptake in the human body, and reflect size ranges used in health studies.Fig. 1.1Major features of atmospheric particle mass distributionBroad classes of chemical compounds can be considered in PM: inorganic ionic compounds (e.g. sulfate), metal oxides (e.g. silicon oxide), and carbonaceous PM, which can in turn be classified as organic carbon (OC) and elemental carbon (EC).EC is not truly pure carbon and is defined by the measurement approach; in some cases, the term black carbon (BC) is used, again being defined by the measurement approach.OC comprises hundreds of compounds, and although the common inorganic compounds are reasonably well known and measured, only a fraction of the organic compounds in PM have been specifically identified (Schauer et al., 1996). Significant headway has recently been made to better understand the general structure of the unidentified compounds (Gentner et al., 2012; Liu et al., 2012).In addition, some inorganic compounds (e.g. ammonium and nitrate) and a myriad of organic compounds (e.g. SVOCs and intermediate-volatility organic compounds) can move between the condensed (particle) phase and the gas phase.Atmospheric chemistry and transport, and infiltration indoors, alter the exposure mixtures. Ozone, a major component of photochemical smog, is formed in the atmosphere due to reactions of NOx with VOCs and CO. Sulfate PM is derived primarily from the oxidation of SO2 (a gas), followed by gas-to-particle conversion. Although formaldehyde is emitted from some building materials and chemical facilities, more is formed in the atmosphere from the oxidation of other organic compounds, and is also destroyed by further reactions. A potentially important, but less well understood, set of chemistry involves larger organic molecules. Oxidation of gaseous organic molecules can lower their vapour pressure, leading to condensation, and they thus become part of the OC mixture in PM. There can be multiple generations of reactions, and some reactions can also take place in or on the particles themselves.(c) Role of sources in the composition of outdoor air pollutantsHere, an overview is provided of the information described in detail for each pollutant in Section 1.2, focusing on sources.Fossil fuel combustion leads to elevated levels of NOx, VOCs, and carbonaceous PM. Reactions involving these compounds can further contribute to elevated levels of other compounds, such as ozone. Furthermore, any impurities in the fuel, for example sulfur and metals such as mercury, are also emitted, sometimes as a gas (e.g. SO2) or as PM (e.g. fly ash, including metals such as selenium, vanadium, and nickel) or as both (e.g. mercury). The combustion process is complex, leading to a mixture of organic gases and PM that is just as complex, comprising species that were originally present in the fuel (e.g. benzene) and products of incomplete combustion. Some products of incomplete combustion include partially oxidized organic components (e.g. aldehydes), pyrolysis products (e.g. 1,3-butadiene and carbonaceous aerosol), and more oxidized products such as CO and carbon dioxide (CO2) and PAHs. Some of these organic species of concern, including dioxins, quinones, and PAHs, are known or suspected carcinogens (see Table 1.2). The relative abundance of the constituents depends on the fuel type and combustion conditions. Historically, spark-ignition engines typically produced relatively less PM and NOx than diesel, but more CO and VOCs. The carbonaceous PM from combustion is particularly complex (for detailed information, see HEI, 2013 and IARC, 2013a). Not all automobile emissions are from the tailpipe; brake and tyre wear can lead to copper and asbestos emissions, as well as resuspended dust. Biomass fuel combustion leads to emissions that can be similar to those from fossil fuel combustion, at least at the macroscopic level. Typically biomass combustion in open burning and in stoves takes place at lower temperatures, leading to lower NOx emissions but higher CO emissions. Organic gases are emitted, as is carbonaceous PM, along with impurities in the fuel (e.g. potassium). The major differences are at the molecular level. Chemical plants and other industries have been responsible for elevated levels of additional pollutants, including heavy metals and organic air toxics, and the compounds involved are process-specific. The air toxics may be due to leakage in the plant or from incomplete combustion of flaring used to control emissions.Natural processes also play a role. Wildland fires, natural and human-related, lead to emissions of CO, NO, and organic gases (including air toxics) and PM. Lightning forms NOx and ozone. Sea spray generates PM. Volcanoes emit sulfur oxides (SOx), mercury, and other metals. Wind raises dust. Plants emit organic gases, some of which are highly reactive. Microbial activity leads to emissions of NOx and ammonia, as well as bioaerosols. Biogenically emitted VOCs and NOx react to form ozone and organic PM. In many cases, natural and anthropogenic sources, such as natural VOCs and emissions of NOx and SOx from fossil fuel combustion, interact to produce higher pollutant levels than would be present with either type alone. Together, these sources and the related atmospheric processing lead to air pollutant mixtures of tremendous complexity and variation, although at any one time most of the pollutants are present, just at varying levels.Carbonaceous PM is a major component of outdoor PM in general, and it will take on a larger role as the levels of other components of PM are reduced. Characterizing the components of primary and secondary carbonaceous PM is difficult, and even specialized studies have typically identified and quantified a relatively small fraction of the potentially thousands of components (Schauer et al., 1996). Therefore, carbonaceous PM is often classified more simply as EC and OC. To the extent that they have been characterized, carbonaceous PM emissions typically resemble the components in the fuel they are derived from (and, in the case of internal combustion engines, the lubricating oil), along with pyrolysis products. OC from internal combustion engines includes PAHs, hopanes, steranes, and partially oxidized products of the underlying fuels and lubricant (Zheng et al., 2002; Gentner et al., 2012; Isaacman et al., 2012; Liu et al., 2012; Zhao et al., 2013). OC from biomass combustion contains large amounts of levoglucosan, a pyrolysis product of cellulose combustion. Atmospheric processing increases the complexity of the OC mixture. Secondary organic compounds are formed in part from the oxidation of gaseous organic compounds, which then have a lowered vapour pressure, leading to condensation. Organic compounds that were originally emitted as PM can volatilize, react, and then recondense. As discussed below, recent advances in analytical methods are leading to a more detailed understanding of both emitted and outdoor OC at the molecular level (Gentner et al., 2012; Isaacman et al., 2012).(d) Role of spatial scales of pollutantsConcentrations of outdoor air pollutants vary across microenvironments, depending on source characteristics. A typical urban area is affected by the surrounding regional background pollutants, which have evolved from a variety of processes (e.g. chemistry, dispersion, and deposition, along with emissions from natural processes). Pollutant concentrations in a city increase due to the variety of urban emissions characteristic of populated areas, leading to elevated levels of primary and processed pollutants on spatial scales similar to the size of the city (1 km to tens of kilometres). On top of the urban mixture, locally elevated levels of freshly emitted pollutants occur over smaller scales (0 m to hundreds of metres). Specific locations that experience high levels of air pollution include sites near and on roadways (including in vehicles), in fire plumes, and near chemical facilities. Karner et al. (2010) assessed near-roadway pollutant gradients and found that CO concentrations dropped by 90% to near background levels in about 170 m, and that concentrations of most other roadway-emitted species dropped to near background levels by 570 m. There are also locally large exposure gradients around factories and industrial complexes, although such gradients can be quite complex, depending on source characteristics. In contrast, plumes from power plants and fires, although they are diluted, can still be identified for tens to thousands of kilometres (Ryerson et al., 1998; Forster et al., 2001). Secondary pollutants (e.g. ozone, sulfate, and part of the OC) are found regionally with relatively smaller gradients. Dust has impacts at multiple scales; locally generated dust can have large impacts locally, and dust storms can lead to intercontinental transport.For pollutants generated outdoors, concentrations may be lower when the pollutants are transported indoors. However, since people tend to spend most of their time indoors, most of the exposure to those pollutants occurs indoors. Also, indoor environments can lead to unique exposures as pollutants generated outdoors come into a very different environment, allowing new chemical pathways to occur. Studies have quantified exposures to specific chemicals or classes of chemicals across environments.1.1.2. Pollutant concentrationsA better perspective on the potential impacts of air pollutants and air pollution is gained by considering typical levels of the major pollutants; more detailed descriptions of concentrations across regions are given in Section 1.4.For primary pollutants, urban concentrations can be many hundreds of times background levels; ozone levels do not vary as dramatically. Approximate concentration ranges are given because pollutant concentrations vary by orders of magnitude between urban areas and within an urban area, depending on the location or day (or time of day). Although many measurements target a specific agent, the concentrations can be an indicator of a mixture and the presence of other compounds.Ozone is produced naturally, and pre-industrial levels are estimated to have been approximately 30 μg/m3. Background levels are now about twice that, due to worldwide anthropogenic emissions of NOx and VOCs, along with natural emissions. Because ozone is produced photochemically, levels are typically highest during sunny periods with reduced atmospheric dispersion. In urban areas with photochemical pollution, ozone levels have reached much higher levels (likely > 1000 μg/m3 in Los Angeles in the 1970s), but current levels in urban areas are much lower (e.g. summertime peaks of < ~400 μg/m3). Ozone reacts with NO, so in areas where NOx emissions are high and/or photochemical activity is low, ozone levels are depressed and can be well below background levels. When elevated levels of ozone are found in urban areas, levels of other photochemical oxidants are likely to be elevated as well, including aldehydes, organic acids, organonitrates, inorganic acids, hydrogen peroxide, and photochemically produced PM (typically in the fine fraction) (Finlayson-Pitts & Pitts, 2000a, 2000b, and references therein).PM levels vary dramatically and depend on which size fraction is being considered (Seinfeld & Pandis, 2006, and references therein). PM10 levels are higher than PM2.5 levels because that size range (PM10) includes the particles between 2.5 μm and 10 μm in diameter, in addition to particles with diameters smaller than 2.5 μm. The ratio between the two is location- and time-dependent. For 21 regions analysed worldwide in 2005, Brauer et al. (2012) estimated the ratio of annual average levels (PM2.5/PM10) to range from 0.13 to 0.94. Areas with high levels of dust or sea salt will have a considerably higher fraction of coarse PM, but if the PM is derived from combustion emissions or atmospheric reactions, the PM2.5 can be a large proportion of the PM10. In pristine areas or after rainstorms, PM2.5 levels can be below 1 μg/m3. In more typical urban atmospheres, annual average levels of PM2.5 are on the order of 4 μg/m3 to tens of micrograms per cubic metre (Brauer et al., 2012; Cooper et al., 2012). Background levels of SO2 are very low, less than 1 μg/m3, except near natural sources (Finlayson-Pitts & Pitts, 2000b). In urban areas or near point sources, however, SO2 levels can exceed tens of micrograms per cubic metre.OC is present in urban atmospheres due to direct emissions and photochemical production. Levels are typically on the order of 1–10 μg/m3 but can be higher during stagnation events. Levels of the individual organic compounds that comprise OC are much lower, reflecting the hundreds of substances likely to be present. EC levels are typically less than OC levels, by about a factor of 2 or more, depending on the source distributions and photochemical activity. OC and EC levels are often highly correlated, because they share some of the same sources, and can also be correlated with levels of CO and NOx (e.g. HEI, 2013).Background CO levels are on the order of 50 μg/m3, varying both spatially and temporally (Seinfeld & Pandis, 2006). In urban areas with high levels of spark-ignition engine emissions, levels are about 10 times background levels and can be as high as 1000 or more times background levels during adverse meteorological conditions near sources. Concentrations tend to peak in cooler periods, when dispersion is reduced and cold-start emissions from vehicles are increased. CO levels in urban areas in developed countries have dropped dramatically due to automotive emission controls.Average lead concentrations have decreased dramatically in countries where regulations have reduced the lead content in on-road motor vehicle gasoline. In the USA, lead concentrations in cities dropped from more than 5 μg/m3 in the early 1980s to about 0.1 μg/m3 after the use of leaded fuel was discontinued (EPA, 2010). Elevated lead concentrations are still found where leaded fuel is used and around lead processing facilities.NOx are emitted naturally by combustion and from microbial activity, leading to levels of 0.02–10 μg/m3. Urban concentrations can reach more than 1000 μg/m3, although they are typically more on the order of 10–100 μg/m3 (Seinfeld & Pandis, 2006).A large number of other potentially hazardous air pollutants (HAPs; sometimes referred to as air toxics) are found in the atmosphere. Different organizations maintain different lists of air toxics. In many cases these pollutants are generally associated with specific source types and are found at elevated levels in limited geographical areas around point sources; exceptions include pollutants such as 1,3-butadiene from engines, PAHs from fossil and biomass fuel combustion, and mercury, which is long-lived and is deposited and re-emitted (UNEP, 2008). Special studies have produced information on potential levels of exposures. Levels of many of the compounds can be found in Seinfeld & Pandis (2006) and references therein, and are discussed below.1.1.3. Pollutants classified by IARCOutdoor air contains many substances that have been evaluated by IARC in the past (Table 1.2). The concentrations of these agents in the atmosphere are often very low, much lower than the levels that are found in environments where past epidemiological studies linking the substance to cancer may have occurred. Recently, IARC classified diesel engine exhaust in Group 1 and gasoline engine exhaust in Group 2B (IARC, 2013a). These are both significant components of urban air pollution mixtures, and include PM and other compounds.
+
+Outdoor Air Pollution, Low Birth Weight, and Prematurity
+Martin Bobak
+International Centre for Health and Society, Department of Epidemiology and Public Health, University College London, London, United Kingdom
+
+This study tested the hypothesis, suggested by several recent reports, that air pollution may
+increase the risk of adverse birth outcomes. This study analyzed all singleton live births registered
+by the Czech national birth register in 1991 in 67 districts where at least one pollutant was monitored in 1990-1991 (n = 108,173). Maternal exposures to sulfur dioxide (S02), total suspended
+particles (TSP), and nitrous oxides (NO.) in each trimester of pregnancy were estimated as the
+arithmetic means of all daily measurements taken by all monitors in the district of birth of each
+infant. Odds ratios of low birth weight (< 2,500 g), prematurity (< 37 weeks of gestation), and
+intrauterine growth retardation (IUGR; < 10th percentile of birth weight for gestational age and
+sex) were estimated by robust logistic regression. The median (and 25th and 75th percentile)
+trimester exposures were 32 (18, 56) pg/m3 for S02; 72 (55, 87) pg/m3 for TSP; and 38 (23, 59)
+pg/m3 for NOx. Low birth weight (prevalence 5.2%) and prematurity (prevalence 4.8%) were
+associated with S02 and somewhat less strongly with TSP. IUGR was not associated with any
+pollutant. The effects on low birth weight and prematurity were marginally stronger for exposures in the first trimester, and were not attenuated at all by adjustment for socioeconomic factors
+or the month of birth. Adjusted odds ratios of low birth weight were 1.20 [95% confidence interval (CI), 1.11-1.30] and 1.15 (CI, 1.07-1.24) for a 50 pg/m3 increase in SO2 and TSP, respectively, in the first trimester; adjusted odds ratios of prematurity were 1.27 (CI, 1.16-1.39) and
+1.18 (CI, 1.05-1.31) for a 50 pg/m3 increase in SO2 and TSP, respectively, in the first trimester.
+Low gestational age accounted for the association between SO2 and low birth weight. These findings provide further support for the hypothesis that air pollution can affect the outcome of pregnancy. Key words air pollution, birth, epidemiology, low birth weight, pregnancy, premature
+birth. Environ Health Perspect 108:173-176 (2000). [Online 10 January 2000]
+
+http://ehpnetl.nie/hs.nih.gov/docs/2000/108p173-176bobak/abstract.html
+The adverse effects of air pollution on mortality and respiratory symptoms have been
+studied extensively (1,2). More recently, several studies reported an association between
+air pollution and birth outcomes, such as
+birth weight (3-5), premature births (6), or
+intrauterine growth retardation (IUGR) (7).
+The literature on this subject is surprisingly sparse. An early U.S. study found that dustfall, a measure of air pollution, was related to
+neonatal deaths with signs of prematurity (8).
+A more recent British study, although not
+specifically designed to study birth weight,
+did not find an excess in the frequency of low
+birth weight in a polluted area as compared to
+a control area (9. With < 6,000 births, however, the study had only a modest statistical
+power. A study in four residential areas of
+Beijing, China, reported a significant
+dose-response relationship between maternal
+exposures to sulfur dioxide (SO2) and total
+suspended particles (TSP) during the last
+trimester and the risk of low birth weight (3)
+and premature birth (6). A study of birth outcomes in Teplice, Czech Republic (74, found
+that the risk of IUGR was increased in term
+births when mothers were exposed to high
+levels of outdoor particulate matter < 10 pm
+in aerodynamic diameter (PM10) in the first
+
+month of pregnancy, after controlling for
+maternal characteristics. A study of births in
+southern California (5) found an association
+between ambient concentrations of carbon
+monoxide and increased risk of low birth
+weight. Finally, our ecologic analysis of data
+on live births in the Czech Republic in
+1986-1988 also found an association
+between SO2 and low birth weight; because
+individual data were not available, possible
+confounding by socioeconomic status could
+not be excluded (4).
+Birth outcomes is a previously unexplored
+area in air pollution epidemiology, and it is
+not known whether the findings described
+above can be replicated in different populations or datasets. To address this question, I
+analyzed data from the Czech national birth
+register linked with the air pollution data.
+
+Methods
+Individual data on all singleton live births
+registered by the Czech national birth register
+in 1991 (n = 126,752) were linked with area
+based indicators of air pollution. The birth
+registration forms are completed at birth by
+the doctor or nurse attending the delivery.
+The forms contain the following information: date of birth; birth weight; gestational
+
+Environmental Health Perspectives * Volume 1 08, Number 2, February 2000
+
+age (estimated by the last menstruation period method); parity; birth order; maternal
+age, education, and marital status; and the
+nationality of the mother and father. The
+quality of the birth register has not been formally validated but the register is considered
+reliable (10).
+The air pollution monitoring system in
+the Czech Republic is overseen by the
+Hydrometeorological Institute in Prague,
+where data are compiled and their quality is
+checked. Data from monitoring stations operated by the Hydrometeorological Institute
+and the Czech Public Health Service were
+considered the most reliable in the early
+1990s, and they were used in the present
+analyses. All stations used an old fashioned
+but uniform monitoring technology: gravimetric method for TSP and colorimetric
+method for SO2 and nitrous oxides (NO ).
+Maternal exposures in each trimester of
+pregnancy were calculated for outdoor S02,
+TSP, and NOX. These were estimated as the
+arithmetic means of all 24-hr measurements
+by all monitors in the district of birth of
+each infant. In 1990-1991, at least one pollutant was monitored in 67 of the total 85
+districts (covering > 85% of all births). The
+geographic distribution of monitors was
+influenced by financial possibilities and by
+pollution levels (more polluted districts
+were monitored more extensively), but the
+monitored districts were similar to the
+remaining 18 districts in terms of both
+pregnancy outcomes and socioeconomic
+factors. All three pollutants were not measured in each district; therefore, the numbers of births with data on exposure were
+different for individual pollutants. Most of
+the infants had data on S02, followed by
+TSP, then NOX (Table 1).
+Address correspondence to M. Bobak, International
+Centre for Health and Society, Department of
+Epidemiology and Public Health, University College
+London, 1-19 Torrington Place, London WC1E
+6BT, U.K. Telephone: 0171 391 1684. Fax: 0171
+813 0242. E-mail: martinb@public-health.ucl.ac.uk
+I thank M. Simek (Czech Statistical Office) for
+providing the data on births; J. Stehlik and J. Fiala
+(Czech Hydrometeorological Institute) for providing data on air pollution; H. Pikhart (University
+College London) for linking the databases; and A.J.
+McMichael, D. Leon, and P. Doyle (London
+School of Hygiene and Tropical Medicine) for
+valuable comments on an earlier draft of this paper.
+Received 1 June 1999; accepted 24 August 1999.
+
+173
+
+Odds ratios (ORs) of low birth weight
+(< 2,500 g), prematurity (< 37 weeks of gestation), and IUGR (< 1 0th percentile of birth
+weight for gestational age and sex) were calculated by robust logistic regression using the
+Huber formula [subcommand "cluster(district)" in STATA statistical software (11)].
+This procedure takes into account the fact
+that the exposures were area based, and that
+individuals may be more similar to each
+other within districts than between districts.
+Several models were constructed. First, crude
+effects were estimated. Second, crude effects
+were adjusted for maternal age group, education, marital status and nationality, parity,
+and month of the birth. All maternal factors
+were related to birth outcomes in bivariate
+analyses. Finally, in the analyses of low birth
+weight, the effects of air pollutants were also
+adjusted for gestational age. I also examined
+models where trimester-specific exposures to
+all three pollutants were adjusted for each
+other, and models where all three trimesters
+were entered simultaneously. In the initial
+analyses the associations between quintiles of
+pollutant levels and outcomes were approximately linear. The pollutants were therefore
+modeled as continuous variables, and the
+effects were reported as ORs for a 50-pg/m3
+increase in mean pollutant concentration
+during a given trimester.
+
+Results
+Table 1 shows the numbers of births with
+data on exposure to individual pollutants,
+the median, and the 25th and 75th percentiles of the mean trimester exposures.
+The exposures were high by Western standards, and the variation was largest for SO2
+and NOX. Pollutant concentrations in different trimesters were mutually correlated
+(Table 2). The strong inverse association
+between the first and third trimester means
+of SO2 and TSP was due to the strong seasonal variation in these pollutants.
+Table 3 shows characteristics of the
+infants and the mothers on which data on at
+least one pollutant were available. The prevalence of low birth weight was 5.2%, and
+4.8% of births occurred before the 37th week
+of gestation. Socioeconomic confounding is a
+major threat to studies of outcomes such as
+low birth weight or prematurity, which are
+strongly related to socioeconomic status.
+174
+
+Therefore, I examined the relationship
+between maternal education, nationality, and
+marital status to pollutant concentrations. To
+be potentially confounding, socioeconomic
+factors would need to be related to exposure,
+i.e., pollution. The differences in mean exposures by maternal education, marital status, or
+nationality were negligible, and no association
+was significant (data not shown). The only
+correlation coefficients stronger than ± 0.1
+were positive (and not statistically significant)
+between maternal education and NOX.
+Low birth weight (< 2,500 g) was significantly associated with SO2, somewhat less
+strongly with TSP, and not with NOX (Table
+4). The crude associations were not attenuated by adjustment for socioeconomic factors
+and the month of birth. ORs of low birth
+weight, adjusted for sex of the infant, education, parity, age and marital status of the
+mother, and the month of birth appeared
+marginally stronger for exposures in the first
+trimester. The adjusted ORs were 1.20 [95%
+confidence interval (CI), 1. 11-1.30] and
+1.15 (CI, 1.07-1.24) for a 50-ig/m3 increase
+in mean SO2 and TSP concentrations,
+respectively, in the first trimester. The associations were approximately linear; for example, the ORs for the second to fifth quintiles
+of SO2 in the first trimester were 1.06 (CI,
+0.96-1.16); 1.05 (CI, 0.96-1.16); 1.22 (CI,
+1.10-1.36); and 1.26 (CI, 1.11-1.43),
+respectively, as compared to the first quintile
+(p for trend < 0.001). Further adjustment for
+gestational age eliminated the effects of SO2
+but not those of TSP (Table 3, last column).
+The effects were substantially weaker in
+analyses restricted to term births, as consistent with the strong influence of gestational
+age. In these analyses, the ORs were 1.10
+(CI, 0.96-1.26) for SO2 and 1.01 (CI,
+0.88-1.15) for TSP in the first trimester,
+after controlling for sex of the infant, education, parity, age and marital status of the
+mother, and the month of birth (data not
+shown). In analyses of birth weight as a continuous variable, an increase in SO2 and TSP
+by 50 pg/m3 in the first trimester was associated with a reduction in the mean birth
+weight by 11.4 g (CI, 5.9-16.9) and 10.8 g
+(CI, 3.1-18.4), respectively.
+The two components of low birth weight,
+prematurity and IUGR, were then analyzed
+
+NOX
+
+1
+0.79
+0.67
+
+2
+0.76
+
+separately. Prematurity (gestational age < 37
+weeks) was also significantly associated with
+air pollution (Table 5). The adjusted ORs per
+50-pIg/m3 increase in mean concentrations
+during the first trimester were 1.27 (CI,
+1.16-1.39) for SO2; 1.18 (CI, 1.05-1.31) for
+TSP; and 1.10 (CI, 1.00-1.21) for NOX. For
+each pollutant in each trimester, the effects
+on prematurity were stronger than those on
+low birth weight. Restriction of the analyses
+to premature birth without IUGR did not
+change these estimates; adjusted ORs were
+1.26 (CI, 1.14-1.40) for SO2 and 1.16 (CI,
+1.02-1.31) for TSP in the first trimester
+(data not shown). Effects on gestational age
+as a continuous variable were small; a 50pg/m3 increase in the mean concentrations of
+SO2 and TSP during the first trimester
+reduced the gestation by 0.056 weeks (CI,
+0.037-0.075) and 0.075 weeks (CI,
+0.049-0.101), respectively.
+There were no significant associations
+between pollutant concentrations and
+IUGR. For example, the adjusted OR was
+0.91 (CI, 0.80-1.04) and 0.89 (CI,
+0.75-1.06) for a 50-jig/m3 increase in SO2
+and TSP in the first trimester, respectively;
+all p-values were > 0.10 (data not shown).
+Restriction of the analyses to term babies
+with IUGR did not change the pattern, and
+the ORs were virtually identical to those in
+the full dataset (data not shown).
+Table 3. Descriptive characteristics of infantsa
+and mothersa included in the analyses.
+
+Variable
+Mean (SD) birth weight (g)
+Prevalence of low birth
+weight (< 2,500 g)
+Mean (SD) gestational age
+
+(weeks)
+
+Prevalence of prematurity
+(< 37 weeks)
+Male sex of the infant
+Mean (SD) maternal age (years)
+Single mother
+Non-Czech mother
+Maternal education
+Primary
+Vocational
+
+
+Children's Health * Air pollution, low birth weight, and prematurity
+
+I also explored the association between
+birth outcomes and exposures in models with
+concentrations of a given pollutant in all
+trimesters, concentrations of all pollutants
+during a given trimester, and concentrations
+of all pollutants in all trimesters. In pollutant-specific analyses, the effects of both SO2
+and TSP on both outcomes appeared to be
+the strongest for exposures in the first
+trimester. In trimester-specific analyses, SO2
+was the strongest predictor of both low birth
+weight and prematurity. In the model containing all three pollutants in all three
+trimesters, SO2 in the last trimester and TSP
+in the first trimester appeared to be related to
+prematurity, and SO2 in the first and the last
+trimester appeared to be related to low birth
+weight. However, because of the collinearity
+between pollutants and trimesters (Table 2),
+these analyses produced unstable estimates
+and are not reported in detail.
+
+
+determinant of low birth weight or prematurity. On the other hand, the effects are not
+negligible; they are several times larger than
+those on adult mortality as estimated from
+time-series studies and are generally accepted
+as causal (1). The associations of air pollution
+with birth outcomes do not seem to be due to
+bias or confounding, and this question
+deserves serious examination.
+
+
+

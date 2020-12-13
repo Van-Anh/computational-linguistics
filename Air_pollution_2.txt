@@ -1,0 +1,567 @@
+Health impacts of air pollutionAround the world, nine out of 10 people breathe unhealthy air.Air pollution is now the biggest environmental risk for early death, responsible for as many as 5 million premature deaths each year from heart attacks, strokes, diabetes and respiratory diseases. That’s more than the deaths from AIDS, tuberculosis and malaria combined.Children, the elderly, people with existing diseases, and minority and low-income communities are particularly vulnerable to adverse health outcomes and economic impacts, such as missed work days, from exposure to air pollution.Research suggests that long term exposure to some pollutants increases the risk of emphysema more than smoking a pack of cigarettes a day. And recent studies show air pollution can impact mental health, worker productivity and even stock market performance.To understand the best way to develop solutions, it’s important to better understand this invisible threat. What we typically think of as "air pollution" is actually a mixture of small particles, including the below.Particulate matter (PM10, PM2.5)Particulate matter (PM) is made up of small airborne particles like dust, soot and drops of liquids. The majority of PM in urban areas is formed directly from burning of fossil fuels by power plants, automobiles, non-road equipment and industrial facilities. Other sources are dust, diesel emissions and secondary particle formation from gases and vapors.Coarse particulate matter (PM10, particles less than 10 microns in diameter) is known to cause nasal and upper respiratory tract health problems. Fine particles (PM2.5, particles less than 2.5 microns in diameter) penetrate deeper into the lungs and cause heart attacks, strokes, asthma, and bronchitis, as well as premature death from heart ailments, lung disease and cancer. Studies show that higher PM2.5 exposure can impair brain development in children.Black carbon (BC)Black carbon is one of the components of particulate matter and comes from burning fuel (especially diesel, wood, and coal). Most air pollution regulations focus on PM2.5, but exposure to black carbon is a serious health threat as well. Populations with higher exposures to black carbon over a long period are at a higher risk for heart attacks and stroke. In addition, black carbon is associated with hypertension, asthma, chronic obstructive pulmonary disease, bronchitis, and a variety of types of cancer.Nitrogen oxides (NO and NO2)Nitrogen oxide (NO) and nitrogen dioxide (NO2) are produced primarily by the transportation sector. NO is rapidly converted to NO2 in sunlight. NOx (a combination of NO and NO2) is formed in high concentrations around roadways and can result in development and exacerbations of asthma and bronchitis, and can lead to a higher risk of heart disease.Ozone (O3)Ozone high in the atmosphere can protect us from ultraviolet radiation. But ozone at ground level (where it is part of what is commonly called smog) is a well-established respiratory irritant. Ozone is formed in the atmosphere through reactions of volatile organic compounds and nitrogen oxides, both of which are formed as a result of combustion of fossil fuels. Short-term exposure to ozone can cause chest pain, coughing and throat irritation, while long term exposure can lead to decreased lung function and cause chronic obstructive pulmonary disease. In addition, ozone exposure can aggravate existing lung diseases.Sulfur dioxide (SO2)SO2 is emitted into the air by the burning of fossil fuels that contain sulfur. Coal, metal extraction and smelting, ship engines, and heavy equipment diesel equipment burn fuels that contain sulfur. Sulfur dioxide causes eye irritation, worsens asthma, increases susceptibility to respiratory infections and impacts the cardiovascular system. When SO2 combines with water, it forms sulfuric acid; this is the main component of acid rain, a known contributor to deforestation.Health impacts of air pollution in CanadaThe Government of Canada estimates that 14,600 premature deaths per year in Canada can be linked to air pollution from fine particulate matter, nitrogen dioxide and ozone, as outlined in the technical report Health Impacts of Air Pollution in Canada – Estimates of Morbidity Outcomes and Premature Mortalities - 2019 Report. In terms of annual morbidity outcomes, the number of asthma symptom days reaches 2.7 million, while the count of acute respiratory symptom days amounts to 35 million. The total economic valuation of the health impacts attributable to air pollution in Canada is $114B per year (based on 2015 currency).Health Canada's analysis makes use of the best available health and air quality data for Canada.Ambient levels for the pollutants are determined from a combination of:• satellite measurements;• ground measurements; and• air quality computer models.Maps are created to show:• air pollution levels across Canada for each pollutant; and• the distribution of the population across Canada.The exposure of Canadians to air pollution is then estimated by combining the air pollution and population maps.Health Canada uses a computer model called the Air Quality Benefits Assessment Tool (AQBAT). The AQBAT model includes mathematical equations that show associations between air pollution and health effects. These equations are based on robust scientific findings. The AQBAT model produces an estimate of the number of premature deaths (and other health outcomes) in Canada.The scientific method used is similar to those used by other health organizations, both in Canada and internationally. All conclude that air pollution has significant impacts on human health.The technical report Health Impacts of Air Pollution in Canada – Estimates of Morbidity Outcomes and Premature Mortalities - 2019 Report is available for download. For additional information on how the Government of Canada estimates air pollution health impacts, please contact hc.air.sc@canada.ca.What are the health risks of air pollution?Air pollution can affect:• breathing and lung conditions, such as:o asthmao allergieso chronic obstructive pulmonary disease (COPD)• heart conditions, such as:o anginao arrhythmiao heart attacko heart failureo hypertensionIt can also increase the risk of stroke.Some pollutants and bacteria found mainly indoors are related to specific risks, such as:• asbestosis• Legionnaires' diseaseYour reaction to air pollution depends on:• the type and amount of contaminants you are exposed to• your overall health• your ageWhat are the symptoms you may experience because of air pollution?If you are suffering from the health effects of air pollution, symptoms can include:• tiredness• headache or dizziness• coughing and sneezing• wheezing or difficulty breathing• more mucous in the nose or throat• dry or irritated eyes, nose, throat and skinYou may notice these symptoms after a few minutes or hours and then feel better after leaving the affected area. This may be more noticeable if you have not spent much time in affected areas. For example, you may notice a difference after a vacation.People with lung or heart disease may experience more frequent and severe symptoms. They may also need more medication to reduce these symptoms.People with lung problemsPeople with asthma or chronic obstructive pulmonary disease (COPD) may notice that they:• have more mucous• cough and wheeze more• experience shortness of breathPeople with heart problemsPeople with heart failure, heart rhythm problems or angina may experience:• light-headedness• a chest or arm pain• irregular heart beats• swelling in the ankles and feet• an increase in shortness of breathWho is most at risk for air pollution health effects?People who are most at risk for health effects are:• older adults• young children• those who are active outdoors• those who have existing heart conditions• those who live near industries or busy roadways• those who have existing breathing or lung problems and illnessesLung conditionsLung conditions that put people at risk for air pollution health effects include:• asthma• lung cancer• chronic obstructive pulmonary disease (COPD)o this is sometimes called chronic bronchitis or emphysemaHeart conditionsPeople who have previously suffered a heart attack are at risk. Other heart conditions that put people at risk include:• heart failure (your heart is too weak to move blood around the body)• angina (chest pain that happens when your heart does not get enough oxygen-rich blood)• heart rhythm problems like arrhythmia (your heart either beats too fast, too slow or is irregular)Those with diabetes are also at risk for air pollution health effects. This is because people with diabetes are also likely to have a heart condition.Young childrenYoung children breathe in more air in relation to their body weight than people in other age groups. This means that they breathe in more contaminants, so air pollution affects them more.The body’s defence and lung systems are also not fully developed yet. Therefore, young children cannot easily fight off sicknesses that may result from air pollution.Older adultsOlder adults may have weaker lungs, heart and defence systems. They may also have an undiagnosed lung or heart condition.Those who are active outdoorsPeople who play sports or do hard work outdoors breathe faster and more deeply than others. This allows more air pollution to enter the lungs.Those who live near industries or busy roadwaysPeople who live near industries or busy roadways are closer to major sources of air pollution. They may be exposed to more pollutants from these sources.What should you do if you think you are suffering from health problems related to air quality?If you think that you are suffering from health problems related to air pollution, it is important to:• keep track of when you get symptoms and when they go away• discuss your symptoms with your health care providerThis will help your health care provider determine if your symptoms are related to• air quality problems, including indoor air quality issues• another health issueIf you are suffering from poor indoor air quality at work, you should:• discuss your concerns with your supervisor or health and safety representative• contact your provincial or territorial government for information and advice on workplace health and safetyHealth Effects of Air Pollutants on Vulnerable PopulationsResearch has shown that some people are more susceptible than others to air pollutants. These groups include children, pregnant women, older adults, and individuals with pre-existing heart and lung disease. People in low socioeconomic neighborhoods and communities may be more vulnerable to air pollution because of many factors. Proximity to industrial sources of air pollution, underlying health problems, poor nutrition, stress, and other factors can contribute to increased health impacts in these communities.There is a need for greater understanding of the factors that may influence whether a population or age group is at increased risk of health effects from air pollution. In addition, advances to analytical approaches used to study the health effects from air pollution will improve exposure estimates for healthy and at-risk groups.The research by EPA scientists and others inform the required reviews of the primary National Ambient Air Quality Standards (NAAQS), which is done with the development of Integrated Science Assessments (ISAs). These ISAs are mandated by Congress every five years to assess the current state of the science on criteria air pollutants and determine if the standards provide adequate protection to public health. Research is focused on addressing four areas:• Identifying and characterizing whether there are key reproductive factors and critical stages of development that are impacted by air pollution exposures;• Determining the role of acute and chronic sociodemographic factors in air pollution health disparities;• Understanding how diet modifies responses to air pollution;• Evaluating long-term lifestyle and chronic disease effects on air pollution-induced respiratory and cardiovascular responsesA multi-disciplinary team of investigators is coordinating epidemiological, human observational, and basic toxicological research to assess the effects of air pollution in at-risk populations and develop strategies to protect these populations, particularly those with pre-existing disease. The results from these products will improve risk assessments by clarifying the role of modifying factors such as psychosocial stress (e.g. noise) and diet, and determining the impact of individual susceptibility on the relationship between air pollutant exposures and health.Long-Term and Short-Term Effects from Exposure to Air PollutantsPeople can experience exposure to varying concentrations of air pollution. Poor air quality can impact individuals for a short period of time during the day, or more frequently during a given day. Exposure to pollutants can also occur over multiple days, weeks or months due to seasonal air pollution, such as increased ozone during the summer or particulate matter from woodstoves during the winter.The health impact of air pollution exposure depends on the duration and concentrations, and the health status of the affected populations. Studies are needed to increase knowledge of the exposure duration and the possible cumulative increase in risk.The research is focused on three main areas: • Short-term peak exposures, such as wildfires, traffic-related sources, or other episodic events;• Intermittent and cumulative exposures;•  Mechanisms underlying the exposure risksResearchers are evaluating the health responses of intermittent multiple days versus one-day air pollution exposure in controlled human exposure, animal, and in vitro models and associated cellular and molecular mechanisms. They are employing population-based models and electronic health records to assess the health effects of short-term and long-term exposures and identifying populations at greatest risk of health effects. The work is improving our understanding of the possible cumulative effects of multiple short-term peak exposures and the relationship of these exposures to longer-term exposures and risks.Multipollutant Exposures and Changes in Environmental Conditions  EPA research is providing information to understand how individuals may respond to two or more pollutants or mixtures and how environmental conditions may impact air quality. While risk estimates for exposure to individual criteria air pollutants such as PM and ozone are well established, the acute and cumulative effects of combinations of pollutants is not well understood. In addition, research is needed to determine how changes in the environment affect both pollutant formation and subsequent responsiveness to exposures in healthy and susceptible individuals.The research is focused on three specific questions: • What is the role of temperature and photochemical aging on the health impact of wildfire smoke and air pollution mixtures?• What is the effect of changing environmental conditions (i.e., temperature and humidity) on responsiveness to air pollution?• Does prior pollutant exposure modify responsiveness to subsequent exposures?The integrated, multi-disciplinary research includes:• Epidemiologic analyses of environmental influences on morbidity and mortality in populations,• Simulations of changing environmental conditions in multi-pollutant formation in atmospheric chamber studies coupled with clinical and toxicological assessments in healthy and at-risk populations,• Evaluation of pre-exposure as a modifying effect on subsequent exposuresThe results are revealing how changes in environmental conditions affect pollutant formation and subsequent health impact in at-risk populations. The research findings are informing EPA’s Integrated Science  Assessments for criteria air pollutants and assisting with future regulatory decisions on the National Ambient Air Quality Standards (NAAQS).Leveraging Big Data for Innovations in Health Science  EPA is at the cutting edge of health science, using electronic health records, novel data systems, tissue-like advanced cellular models, molecular approaches, and animal models to evaluate the health impacts of air pollution.  Researchers are using these powerful new techniques to identify factors that may increase sensitivity and vulnerability to air pollution effects. The research is building capacity for future risk assessment and regulatory analyses that go beyond traditional lines of evidence to more clearly define populations and lifestages at increased risk of health effects from air pollution.To continue to protect public health from poor air quality, researchers must consider new epidemiological, toxicological and clinical approaches to understand the health risks of poor air quality and the biological mechanisms responsible for these risks. At the center of these new research approaches is an explosion of data availability and methodological approaches for handling large clinical and molecular datasets, also known as "big data."While data of increasing size, depth, and complexity have accelerated research for many industries and scientific fields, big data is sometimes less recognized for the impacts it is having on environmental health studies. Increasingly, researchers are able to examine vulnerable populations with unprecedented precision and detail while also evaluating hundreds of thousands of molecular biomarkers in order to understand biological mechanisms associated with exposure.Health Effects of Wildfire SmokeLarger and more intense wildfires are creating the potential for greater smoke production and chronic exposures in the United States, particularly in the West. Wildfires increase air pollution in surrounding areas and can affect regional air quality.The health effects of wildfire smoke can range from eye and respiratory tract irritation to more serious disorders, including reduced lung function, exacerbation of asthma and heart failure, and premature death. Children, pregnant women, and the elderly are especially vulnerable to smoke exposure. Emissions from wildfires are known to cause increased visits to hospitals and clinics by those exposed to smoke.It is important to more fully understand the human health effects associated with short- and long-term exposures to smoke from wildfires as well as prescribed fires, together referred to as wildland fires. EPA is conducting research to advance understanding of the health effects from different types of fires as well as combustion phases. Researchers want to know:• What is the full extent of health effects from smoke exposure?• Who is most at risk?• Are there differences in health effects from different wildfire fuel types or combustion phases (burning versus flaming)?• What strategies and approaches are most effective in protecting public health?• What are the environmental, social and economic impacts of wildfire emissions?Public Health Intervention and Communications StrategiesMany communities throughout the United States face challenges in providing advice to residents about how best to protect their health when they are exposed to elevated concentrations of air pollutants from motor vehicle and industrial emissions and other sources of combustion, including wildland fire smoke.Researchers are studying intervention strategies to reduce the health impacts from exposure to air pollution as well as ways to effectively communicate these health risks. To translate the science for use in public health communication and community empowerment, EPA is collaborating with other federal agencies, such as the Centers for Disease Control and Prevention (CDC) and the National Heart, Lung, and Blood Institute (NHLBI), and state and local agencies and tribes. The objectives are to identify ways to lower air pollution exposure or mitigate the biological responses at individual, community or ecosystem levels, and ultimately evaluate whether such interventions have benefits as measured by indicators of health, well-being or economics.Studies are evaluating the interactions between behavior and social and economic factors to more thoroughly understand how these factors may influence health and well-being outcomes, which can inform effective and consistent health risk messaging. EPA sets National Ambient Air Quality Standards (NAAQS) for six principal criteria air pollutants—nitrogen oxides, sulfur oxides, particulate matter, carbon monoxide, ozone and lead—all of which have been shown to be harmful to public health and the environment.The Agency’s Integrated Science Assessments (ISAs) form the scientific foundation for the review of the NAAQS standards by providing the primary (human health-based) assessments and secondary (welfare-based, e.g. ecology, visibility, materials) assessments. The ISAs are assessments of the state of the science on the criteria pollutants. They are conducted as mandated under the Clean Air Act.AIR POLLUTION is a major blot on our environmental
+health scorecard: in some Western countries, it is estimated
+that car emissions kill twice as many people as car crashes.1
+In both urban Australia and New Zealand, the main sources
+of air pollution are motor vehicle emissions, wood smoke
+from home heating, and industrial pollution. Bushfires are
+another important source of air pollution in some parts of
+Australia. In New Zealand, an estimated 900 deaths per year
+are attributable to air pollution (2% of all deaths), of which
+nearly half are due to motor vehicle emissions.2
+ If a third of
+these deaths could be avoided through increased public
+transport use (and thus reduced car use), improved fuels
+and pollution-control technology for cars, the “lives saved”
+would be greater than deaths due to HIV/AIDS, malignant
+melanoma, or workplace injuries.2
+The effect of air pollution on health has become a major
+concern in recent years. In Australia, the increasing interest
+in this issue has been spurred not so much by a worsening of
+air quality as by accumulating evidence of its effect on health
+and the perceived need to “do something about it”. Epidemiological research into air pollution over the past 20 years
+has demonstrated cardiorespiratory health effects ranging
+from minor respiratory symptoms to increased hospital
+admissions and mortality.3
+ Toxicological and clinical studies
+have elucidated the mechanisms for some effects, but the
+association between relatively low urban air pollution levels
+and increased cardiorespiratory mortality has not yet been
+explained.
+There is also increasing global awareness of the extreme
+levels of indoor and outdoor air pollution arising from the
+use of coal and biomass (eg, wood, farm waste, cowdung)
+for cooking and heating in developing countries.4
+ Coalburning to fuel industry and produce electricity is another
+major source of air pollution in some countries — for
+example, India and China, where cheap coal is an important
+factor in industrialisation. On top of this, most developing
+countries have a rapidly worsening problem of motor vehicle
+traffic congestion and associated air pollution (Box 1). The
+combination of these factors means that in most large urban
+areas exposure to air pollution is severe.
+Major air pollutants
+The sources, health effects and vulnerable groups for major
+air pollutants are summarised in Box 2. In typical urban air
+pollution situations, particulate matter (PM) and gaseous
+pollutants (oxides of nitrogen [NOx], ozone, carbon monoxide [CO] and “air toxics” [eg, hydrocarbons, aldehydes])
+occur together, as the sources are the same. Furthermore,
+levels of pollutants vary dramatically by location and over
+time, depending on changing meteorological factors such as
+wind speed and wind direction. This makes it very difficult
+to isolate the health effects of individual pollutants. It is
+more useful to consider each of the major pollutants as
+“indicators” of the mixture of air pollution created by motor
+vehicles, home heating and industry. Continuous monitoring of PM, NOx, ozone and CO has been established in
+recent years in the major Australian cities,6
+ but these data
+provide only general estimates of actual exposures in individuals. CO is the only major air pollutant for which a
+biomarker of exposure (carboxyhaemoglobin in erythrocytes) is currently available.
+Researchers are currently investigating the importance of the size
+and chemical composition of particles as a causal factor for cardiorespiratory effects.3
+ Focus has now
+shifted to the very small particles,
+PM2.5 and PM1 (ie, particles
+smaller than 2.5 m or 1 m,
+respectively).3
+ As very small particles penetrate further into the lungs
+than larger particles, they are
+believed to be more strongly associated with adverse health effects.
+Diesel engine emissions contribute
+disproportionately to the verysmall-particle fraction of urban air
+pollution.7
+The recent documentation of
+lung cancer as an effect of longterm exposure to urban air
+pollution8
+ puts the spotlight on carcinogenic chemicals in the smallest
+air particles and on carcinogenic
+gases (eg, benzene; benzo-
+(alpha)pyrene) as possible causal
+agents.
+Carbon dioxide (CO2), another
+air pollutant created by fuel combustion, has no direct health effects at the concentrations occurring in the ambient environment.
+However, it is the main “greenhouse gas” causing global
+climate change9
+ and, as such, indirectly contributes to the
+global health impact of such change. Australia and New
+Zealand are among the few countries where vehicle-related
+CO2 emissions have substantially increased since 1996,
+when the Kyoto Protocol on greenhouse gas reductions was
+signed. Efforts to reduce urban air pollution by reducing the
+use of cars would have the added benefit of reducing CO2
+emissions.
+Adverse health effects
+There is an exhaustive literature on the health effects of the
+major air pollutants, including numerous epidemiological
+and toxicological studies. In a recent review,10 the American
+Thoracic Society (ATS) expanded its list of adverse health
+effects of air pollution to include not only clinical outcomes
+(such as hospital admissions, loss of lung function, and
+mortality) (Box 2), but also diminished quality of life and
+subclinical symptoms that may interfere with daily activities
+(Box 3). In any particular study, establishing whether there
+is an association between air pollution and one or more of
+the effects listed in Box 2 and Box 3 depends on exposure
+level, the background health status of the population
+exposed, and their age. Thus, some of the evidence may
+appear conflicting, and the ATS recommends that the
+effects in Box 3 should be included in future studies.10 We
+describe here the key epidemiological findings on the major
+effects of air pollution.
+Mortality
+Most recent epidemiological studies of air pollution and
+mortality have used time-series analysis to relate daily mortality rates to daily air pollution levels (on the same day
+or previous days). However, this approach cannot be used to
+ascertain whether increased mortality reflects a significant
+reduction in life expectancy.3
+A few studies have documented associations between
+mortality and air pollution exposure over longer periods.
+The Harvard “six cities” study11 involved a 14–16-year
+prospective cohort of more than 8000 adults in the United
+States, and the American Cancer Society (ACS) study
+collected data on over 500 000 people living in 51 different
+US metropolitan areas from 1982 to 2000.8,12 These studies
+reported significant associations between annual average
+particle pollution levels (PM10 or PM2.5) and annual allcause mortality rates: an average increase of 10 g/m3
+ of
+PM10 or PM2.5 was associated with a 3%–4% increase in
+mortality. The ACS study also found a significant association between levels of PM2.5 and deaths due to cardiorespiratory diseases and lung cancer.8
+A “natural intervention” study with long-term exposure
+and effect data analysed mortality in Dublin before and after
+coal-burning was banned in 1990.13 The annual average
+particle pollution level declined by 36% after the ban, while
+adjusted mortality rates decreased by 15.5% and 10.3% for
+respiratory and cardiovascular deaths, respectively.
+No long-term exposure studies have been carried out in
+Australia or New Zealand, but short-term time-series analy-ses suggest that the situation here is similar to that observed
+in many US and European studies. Significant associations
+between daily PM10, NOx and/or CO levels and daily
+cardiorespiratory mortality have been found in Sydney,14
+Brisbane,15 and Christchurch,16 but the associations have
+been weaker in Melbourne17 and Perth.18
+A review of epidemiological studies concluded that there
+may be a relationship between acute ozone exposure and
+increased mortality,19 especially in elderly people. However,
+the concurrence of high ozone levels with hot weather makes
+it difficult to separate the effect of heat from the effect of
+ozone on mortality. In Australia, ozone levels have been
+found to affect daily mortality rates in Sydney, Brisbane and
+Melbourne,15,17 but the interpretation of these results raises
+similar concerns to those of the recent review.19
+Hospital admissions
+Acute time-series studies3
+ have shown associations between
+particle pollution and daily hospital admissions, mainly for
+respiratory disease (especially asthma and chronic obstructive pulmonary disease) but also for cardiovascular diseases.18,20-23
+Other effects
+Studies in Australia have reported an association between
+particle exposure from dust storms and exacerbation of
+asthma symptoms,24 and between particle exposure and
+decreased lung function in people with asthma.25
+Some studies have suggested that air pollutants are related
+to respiratory allergic diseases by the interaction between
+pollen allergens and air pollutants: air pollutants adhering to
+pollen grains may increase their impact, and probably also
+heighten airway responsiveness to aeroallergens.26
+Role of the clinician
+Decisions about patient management would not normally be
+influenced by the patient’s exposure to air pollution. (The
+causal role of air pollution in disease is an epidemiological
+diagnosis.) However, the following advice may be appropriate for patients who are particularly at risk (eg, those with
+severe cardiac or respiratory disease):
+■ Avoid specific exposure situations (such as walking along
+a highly polluted road) if these appear to exacerbate symptoms;
+■ Avoid outdoor activities during smog episodes, particularly exercise in the afternoons, when ozone levels are
+highest27 (as a result of delayed interaction between sunlight
+and morning peak-hour motor vehicle emissions);
+■ (For patients with asthma) self-monitor peak expiratory
+flow more frequently during smog episodes and adjust
+medication if necessary;27
+■ Avoid exposures to extreme heat or cold, as these can
+further exacerbate the health effects of air pollution;
+■ Stop smoking, as this further exacerbates the risk of
+cardiorespiratory diseases.
+The shifting panorama
+Current levels of major air pollutants in Australian capital
+cities and New Zealand only occasionally exceed air quality
+guidelines. Particle pollution levels have remained relatively
+stable during recent years, while NO2 levels are only slowly
+declining (Box 4), as the increasing number of vehicles and
+kilometres driven have been mitigated by increasing use of
+catalytic converters (for vehicle emission reduction) and
+improved-quality diesel fuel.
+However, the epidemiological evidence shows that air
+pollution, even at levels below the commonly used air
+quality guidelines,3,8,11 increases mortality rates.2
+ To reduce
+the burden of disease related to air pollution, Australian and
+New Zealand governments could choose from a range of
+policy options that would make the air cleaner in the long
+term — for example, providing support and infrastructure
+for increased use of public transport, walking and bicycling;
+popularising new vehicles with low-pollution engines; and
+encouraging improved efficiency of household heating and
+cooling devices.
+From a global perspective, many developing countries are
+at a similar stage of industrial and urban development to
+Western countries 50–80 years ago, when high levels of
+ambient air pollution from coal-burning were common. At
+the household level in developing countries, promoting
+energy-efficient and less-polluting cooking stoves constructed from local materials would be an important step in
+reducing air pollution. Switching the energy source for
+cooking to less-polluting kerosene, gas and electricity is another solution, often out of reach for poor communities in
+the short term.
+Worldwide, a major change in priorities is needed to steer
+economic development towards low-pollution policies
+Associations between air pollution and
+multiple health effects are now well established (Pope 2007; Pope and Dockery 2006;
+Pope et al. 2002). For key pollutants such as
+particulate matter (PM) and ozone (Green
+et al. 1999), there are no established thresholds of exposure below which population
+health impacts are absent. Given that everyone is exposed to some level of air pollution,
+the attributable health burden can be high,
+particularly for vulnerable subpopulations.
+Recent evidence that air pollution leads to
+inflammatory processes that mediate a variety
+of diseases suggests an expanding range of
+health impacts related to air pollution exposure. Consequently, the population health burden may be greater than previously believed.
+A discussion of the biological mechanisms
+by which air pollution leads to cardiovascular
+and respiratory disease has been covered in
+detail elsewhere (Brook et al. 2010; Ko and
+Hui 2009; Mittleman 2007; Nogueira 2009;
+Patel and Miller 2009) and is beyond the
+scope of this review. However, a mechanistic
+understanding provides information on the
+effects of timing and exposure duration on
+disease development and progression, how
+pollutants interact with other stressors, and
+potential mitigating factors such as nutritional
+supplementation or medications. Ambient PM
+affects respiratory and cardiovascular disease
+development and exacerbation via pulmonary
+(neurologic) reflexes and pulmonary inflammation. Under some circumstances, these
+responses result in systemic inflammation,
+oxidative stress, and altered vascular function.
+Collectively, these processes can contribute
+to cardiovascular and pulmonary diseases,
+including atherosclerosis.
+Evidence from natural experiments
+(Clancy et al. 2002; Parker et al. 2008; Pope
+2007) and from analyses of long-term trends
+(Laden et al. 2006; Pope et al. 2009) indicates
+that reducing air pollution has clear health
+benefits. Traditionally, air quality management has focused on emissions-based pollution control. Although regulations promoting
+cleaner vehicle engine technology, power
+production, and industrial combustion processes have clearly led to decreased emissions,
+increases in vehicle-kilometers traveled and
+overall power generation and industrial activity may offset their effectiveness. Interventions
+separating people from pollution, which
+reduce exposure independent of emissions
+controls and mitigate health impacts, have
+largely been overlooked as components of formal strategies. For example, land-use decisions
+typically do not consider air pollution–related
+health impacts and do not require minimum
+distances between sources and individuals. A
+consequence of this has been the siting of residences, schools, and hospitals near major traffic arteries. Modification of the infiltration of
+outdoor pollutants into indoor environments,
+which is largely a function of air exchange and
+building design, offers further opportunities
+for exposure reduction. Activity modification
+at an individual level such as altering the duration, intensity, and location where individuals are physically active can also help reduce
+air pollution exposure and dose. Because the
+benefits of exercise on health are well established, whereas the net consequences of physical activity in polluted environments remain
+unclear, recommendations on this topic
+must carefully weigh the benefits and risks
+of outdoor physical activity. To make further progress in reducing air pollution–related health impacts, a new framework is needed
+that incorporates strategies at regulatory, community, and individual levels, to reduce both
+emissions and exposures.
+Objectives
+An international workshop with participants from multiple disciplines, titled “From
+Good Intentions to Proven Interventions:
+Effectiveness of Actions to Reduce the Health
+Impacts of Air Pollution,” was convened
+26–27 March 2009 in Vancouver, British
+Columbia, Canada. Participants included
+health and environmental researchers, public policy makers, air quality managers, health
+care providers, and nongovernmental organization representatives. The primary focus of
+the workshop was to discuss evidence of the
+effectiveness of actions, at the community and
+individual level, to reduce health impacts of
+air pollution. Although national-level policies
+and management programs as well as specific
+emissions reductions programs have received
+considerable attention, this workshop focused
+on the state of the science around specific
+community- and individual-level interventions.
+Some examples are behavior and its impact on
+exposure, medications and their influence on
+health outcomes given air pollution exposure,
+and strategies to reduce individual baseline risk
+of conditions associated with increased susceptibility to the effects of air pollution. The
+current understanding of biological mechanisms such as systemic and local inflammatory
+impacts and the role of air pollution relative to
+these disease processes, were discussed, as was
+the role of exposure duration in disease initiation progression and reversal.
+Community-Level Interventions
+to Reduce Exposure
+Past and current outdoor air quality management activities have largely focused on
+emissions reductions. From a public health
+perspective, activities such as technological
+improvements in combustion technology or
+fuel standards have the advantage of avoiding
+the well-documented challenges of persuading individuals to voluntarily change their
+behavior in order to protect themselves. Air
+pollution controls have resulted in substantial decreases in levels of air pollution, leading to measurable health benefits (Clancy
+et al. 2002; Downs et al. 2007; Medley
+et al. 2002; Pope et al. 2009; Schindler et al.
+2009). Analysis of the effectiveness of regulations and air quality management actions to
+reduce air pollution and its associated health
+impacts is an active area of research that is
+discussed in more detail elsewhere (van Erp
+et al. 2008). Targeting specific sources that
+contribute significantly to air pollution is an
+important strategy in improving air quality.
+During the workshop, several case studies of
+community-level interventions were presented
+including Dublin’s (Ireland) ban on sales of
+coal, Libby’s (Montana) woodstove exchange
+program, and London’s (United Kingdom)
+congestion charge zone (CCZ) and lowemission zone (LEZ) programs. These were
+examples of how source substitution, technology upgrades, and urban/transportation
+planning can lead to decreases in exposure
+and/or health impacts. Although we briefly
+review these examples below, it is important
+to consider that community-level efforts will
+largely be location specific because they focus
+on major sources of local pollution.
+Before the 1990 ban on the sale of coal,
+coal-related combustion was a major source
+of ambient air pollution in Dublin (Clancy
+et al. 2002). Within 6 years of the ban, ambient levels of black smoke and sulfur dioxide
+decreased 70% and 35%, respectively. During
+the initial 72-month period after the ban,
+total mortality decreased by 6% [95% confidence interval (CI), 4–7%] (Clancy et al.
+2002). As expected, the largest effects were
+seen for respiratory and cardiovascular deaths,
+with decreases of 16% (95% CI, 12–19%)
+and 10% (95% CI, 8–13%), respectively.
+In many communities, residential wood
+heating is an important contributor to wintertime pollution (Naeher et al. 2007). Because
+wood burning typically occurs in residential
+areas, the intake fraction (the ratio of the total
+mass of a pollutant inhaled to the mass of the
+pollutant emitted) of woodsmoke PM with
+an aerodynamic diameter of ≤ 2.5 µm (PM2.5)
+is higher compared with PM2.5 from other
+sources, such as traffic (Ries et al. 2009); this
+suggests that reducing woodsmoke emissions
+can effectively reduce PM2.5 exposures. To
+address this, woodstove exchange programs
+that encourage residents to replace older
+stoves with newer, cleaner burning models
+have been broadly implemented. Follow-up
+of a large woodstove exchange campaign in
+Libby, where nearly 90% of woodstoves were
+replaced or removed, showed reductions of
+20%, 64%, and 50% in average wintertime
+concentrations of (November–February)
+PM2.5, polycyclic aromatic hydrocarbons,
+and levoglucosan (a woodsmoke tracer),
+respectively, compared with precampaign levels (Bergauff et al. 2008; Ward et al. 2009).
+Preliminary analysis across the four winter
+seasons spanning the stove exchange found
+decreased reporting of childhood wheeze
+[odds ratio (OR) = 0.75 per 5-μg/m3 reduction in ambient PM2.5; 95% CI, 0.56–1.00],
+upper respiratory infections, and bronchitis.
+Traffic-related air pollution is an important source of primary and secondary pollutants and a major contributor to intraurban
+variability in pollutant concentrations.
+Accordingly, urban and transportation planning approaches may be effective in reducing
+this variability, as well as the overall impact
+of this pollution source. To address traffic
+congestion in central London, a congestion
+charge scheme (CCS) was implemented in
+2003. Although the objective of the CCS was
+to reduce the traffic congestion in the central city zone, air pollution reduction was a
+potential co-benefit (Tonne et al. 2008). The
+implementation of the CCS was estimated
+to lead to a modest decrease of 0.73 µg/m3 in
+the annual average nitrogen dioxide concentration in the CCZ; however, this decrease
+was associated with an increase of 183 years
+of life gained per 100,000 population in the
+CCZ (Tonne et al. 2008). Although traffic
+congestion decreased initially, levels did reach
+pre-CCS conditions after 4 years, which may
+account for the limited improvement in air
+quality. Other positive health impacts that
+may have resulted from the implementation
+of the CCS, but were not formally investigated, included an increase in active transport (cycling and walking, albeit mitigated
+by exposure in a high-traffic zone), a decrease
+in noise pollution and related stress, and a
+decrease in vehicle traffic accidents. More
+recently, London has also implemented an
+LEZ specifically to target air pollution. The
+most polluting vehicles (as defined by the
+program), including heavy-duty diesel vehicles, larger vans, and buses, must pay a daily
+charge to travel through the LEZ (Kelly and
+Kelly 2009). By 2012, it is estimated that
+this program will lead to a 6.6% reduction
+in PM10 (PM with aerodynamic diameter
+≤ 10 µm) levels (Kelly and Kelly 2009). LEZ
+programs have also been implemented elsewhere, including Tokyo, Japan, and Sweden,
+to reduce air and noise pollution.
+The examples above illustrate how targeted interventions can affect sources such as
+woodsmoke and vehicle traffic that operate in
+close proximity to populations. Vehicle traffic
+has become a major source of air pollution
+in many communities, and the benefits of
+strategies that address only emissions reductions through improved vehicle technology
+and fuel quality may be at least partially offset
+by increases in vehicle-kilometers traveled.
+Although the future introduction of zeroemission vehicles such as electric cars may
+eliminate the need for alternative approaches
+to reduce the impact of traffic-related air pollution, the broad proliferation of vehicles that
+do not emit pollutants is likely to be at least
+20–30 years away (America’s Energy Future
+Panel on Energy Efficiency Technologies
+2009). Until zero-emission vehicles are universal, land-use planning that favors sprawl
+and increased commuting distances, coupled
+with poor public transit options, places greater
+dependence on vehicle travel. This is likely to
+result in increased emissions of ozone precursors as well as increased pollutant exposure for those residing in areas close to major traffic
+arteries, sitting in vehicles during heavy traffic, and attempting to walk, run, or bike along
+roads. Even in a scenario of decreasing pervehicle emissions, a global economy that relies
+heavily on the transport of goods over large
+distances (Perez et al. 2009) and increasing
+industrial and transportation activity close to
+communities (Hricko 2008) may also result in
+elevated exposures. A paradigm shift in how
+cities are designed and organized, with separation of densely populated areas from major
+traffic arteries coupled with continued emissions reduction (e.g., via low-emission public
+transit) could significantly reduce individual
+exposure to traffic-related air pollutants. Such
+planning approaches must also consider
+other relationships between built environment and health, such as the relationship
+between increased sprawl and ozone concentrations (Stone 2008) and between increased
+neighborhood walkability (via higher density,
+street connectivity, and mixed-use design)
+and elevated concentrations of traffic-related
+pollutants (Marshall et al. 2009).
+Although individuals are not typically
+exposed to single pollutants, experimental
+and epidemiologic study designs are limited
+in their ability to investigate the health effects
+of concurrent exposure to multiple pollutants.
+This is also a limitation of current air quality
+management. From a regulatory standpoint,
+guidelines, standards, and emissions limits
+are developed for single pollutants, under
+the notion that a given pollutant, although
+present in mixtures, acts individually to affect
+health and the environment (Nadadur et al.
+2007) and serves as a proxy for a more complex exposure. Although it is challenging to
+implement regulatory approaches for pollutant mixes, a deviation from the current singlepollutant approach (Dominici et al. 2010)
+needs to be considered. Synergy involving
+ozone and other pollutants such as black carbon, and nitrogen dioxide has been demonstrated in animal and human populations
+(Mauderly and Samet 2009). In combination,
+these pollutants may cause a greater additive
+effect on lung function, cytokine production,
+and cardiac output and stroke volume compared with the individual pollutants themselves (Mauderly and Samet 2009). Assessing
+the effects of individual pollutants likely presents only a partial description of the overall
+health impact of air pollution exposure.
+Given the potential for additive or synergistic effects, approaches that reduce exposure
+to multiple pollutants may be more effective than efforts to reduce emissions of single
+compounds. For example, with accumulating
+evidence of cardiopulmonary morbidity and
+mortality associated with traffic-related air
+pollution exposure (Health Effects Institute
+2010), increasing the distance between
+populations and major roads may result in
+substantial health benefits. Attenuated lung
+function, increased markers of oxidative stress,
+and airway inflammation have been shown
+in asthmatics and nonasthmatics exposed
+to road-traffic pollution (Barraza-Villarreal
+et al. 2008; McCreanor et al. 2007; Romieu
+et al. 2008a). Additionally, children exposed
+to higher levels of traffic-related pollution
+(> 0.41 µg/m3 elemental carbon attributable
+to traffic) before 12 months of age have an
+increased risk of persistent wheeze (OR =
+1.75; 95% CI, 1.07–2.87) (Ryan et al. 2009).
+Individuals residing within 50 m of a major
+road have a 63% excess risk of developing
+high coronary artery calcification compared
+with those living > 200 m away from a major
+road (Hoffmann et al. 2007), suggesting that
+the separation of residential areas from major
+roads may be an important public health
+intervention. Although separating individuals from pollution sources is likely to have
+health benefits, not all pollutants (i.e., ozone)
+decrease with increasing distance from roadways (Beckerman et al. 2008).
+More specific evidence of the benefits
+related to interventions can be found in recent
+research indicating that adults who moved
+away from residences in close proximity to
+traffic (< 150 m from a highway or < 50 m
+from a major road) had a lower risk of coronary heart disease (CHD) mortality than
+did those remaining in locations close to traffic; in both cases, the risk of CHD mortality
+was greater than in those who never lived in
+close proximity to traffic (Gan et al. 2010).
+Additionally, children who moved away from
+residences with high background PM10 experienced an increased rate of lung function
+growth compared with children who moved
+to areas with high PM10 (Avol et al. 2001).
+Finally, introducing an electronic toll collection along the New Jersey Turnpike to
+reduce congestion was associated temporally
+and spatially with reductions in incidence
+of prematurity and low birth weight among
+mothers living near toll plazas (Currie 2009).
+These findings suggest that community design
+that aims to separate such facilities as schools,
+child care centers, and hospitals from major
+traffic arteries or approaches to mitigate traffic
+congestion can reduce exposure and impacts
+among vulnerable members of the population (California Air Resources Board 2005;
+Ministry of Environment 2006a, 2006b).
+In addition to simple separation of populations from traffic arteries, the establishment
+of “mixed-use” (i.e., residential, commercial,
+recreational) and high-density areas would
+allow for more “walkable” cities, potentially
+leading to reduced emissions through decreased
+automobile use. “Walkability,” a measure of
+how conducive an environment is to walking,
+can help to predict levels of physical activity
+and active transportation within the community (Frank and Engelke 2005). Community
+design facilitating improved fitness may
+reduce the health impacts of air pollution by
+decreasing the proportion of the population
+with underlying cardiopulmonary disease risk
+factors, and therefore reduce their susceptibility to air pollution. Therefore, the development of more walkable communities has the
+potential to provide population-level health
+benefits through both lower emissions and a
+decrease in underlying cardiovascular risk. Interventions Directed
+to Individuals
+In addition to the air quality management
+strategies focused on emissions reductions and
+local initiatives to control sources and separate
+them from residential locations, schools, and
+health care facilities, the workshop highlighted
+the value of lowering baseline health risks
+to reduce pollution-related health impacts.
+Specifically, the implementation of established
+primary, secondary, and tertiary interventions
+(e.g., controlling hypertension, lowering lipids,
+reducing obesity, promoting physical activity
+and smoking cessation) for diseases affected
+by air pollution exposure will serve to reduce
+the overall burden of disease associated with
+air pollution exposure. For example, sedentary
+individuals and those with a diet deficient in
+antioxidants or with a high salt diet may have
+an increased risk of developing cardiovascular disease (Marchioli 2003; Qin et al. 2009;
+Warburton et al. 2006) and may therefore
+also be more susceptible to the effects of air
+pollution. Through diet modification, exercise,
+and possibly via antioxidant supplementation,
+individuals can potentially reduce their personal susceptibility. Several of these approaches
+are discussed in more detail below.
